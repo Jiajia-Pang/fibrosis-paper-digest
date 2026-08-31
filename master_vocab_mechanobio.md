@@ -1,16 +1,16 @@
-# 高频词汇 Top 10（机械力学方向，截至2026-08-30）
+# 高频词汇 Top 10（机械力学方向，截至2026-08-31）
 
-首次运行，所有词汇累计出现次数均为1次，并列情况下按字母顺序排列。
+累计出现次数并列（1次）的词按字母顺序排列。
 
 | 排名 | 英文词汇 | 类别 | 累计出现次数 |
 |---|---|---|---|
-| 1 | attenuate | 学术通用表达 | 1 |
-| 2 | collapsed (fibroblast) morphology | 生物学术语 | 1 |
-| 3 | confocal laser scanning microscopy (CLSM) | 实验技术与方法 | 1 |
-| 4 | convergence | 学术通用表达 | 1 |
-| 5 | cytoskeletal remodeling | 生物学术语 | 1 |
-| 6 | dermal aging | 医学术语 | 1 |
-| 7 | dermis | 医学术语 | 1 |
-| 8 | dissociation | 学术通用表达 | 1 |
-| 9 | ECM homeostasis | 生物学术语 | 1 |
-| 10 | extracellular matrix (ECM) | 生物学术语 | 1 |
+| 1 | recapitulate | 学术通用表达 | 2 |
+| 2 | RT-qPCR | 实验技术与方法 | 2 |
+| 3 | single-cell RNA sequencing | 实验技术与方法 | 2 |
+| 4 | 2D fast Fourier transform (2D-FFT) analysis | 实验技术与方法 | 1 |
+| 5 | adipogenesis | 医学术语 | 1 |
+| 6 | Alizarin Red staining | 实验技术与方法 | 1 |
+| 7 | ATAC-seq | 实验技术与方法 | 1 |
+| 8 | atopic dermatitis | 医学术语 | 1 |
+| 9 | attenuate | 学术通用表达 | 1 |
+| 10 | attenuation | 学术通用表达 | 1 |
