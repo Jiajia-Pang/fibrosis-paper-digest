@@ -23,3 +23,15 @@
   **期刊**: Annals of the Rheumatic Diseases (2026-08-13)
   **DOI**: 10.1016/j.ard.2026.07.014
   **PMID**: 42595656
+
+## 2026-09-04
+
+- **标题**: Mechanosensitive phosphorylation of NFATC4 at S213/S217 drives fibroblast-to-myofibroblast transition and fibrosis
+  **期刊**: Journal of Clinical Investigation (2026-09-01)
+  **DOI**: 10.1172/JCI195121
+  **PMID**: 42677834
+
+- **标题**: SNHG26 orchestrates pro-fibrotic fibroblast maintenance via PTBP1-mediated alternative polyadenylation of AKT3 in dermal fibrosis
+  **期刊**: Proceedings of the National Academy of Sciences (PNAS) (2026-08-27)
+  **DOI**: 10.1073/pnas.2601536123
+  **PMID**: 42658765
