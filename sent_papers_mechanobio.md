@@ -21,3 +21,13 @@
 - **标题**：The heterogeneity of dermal mesenchymal cells reproduced in skin equivalents regulates barrier function and elasticity
   **DOI**：10.1038/s44319-026-00757-w
   **期刊**：EMBO Reports（2026-04-01）
+
+## 2026-09-07
+
+- **标题**：Mechanosensitive phosphorylation of NFATC4 at S213/S217 drives fibroblast-to-myofibroblast transition and fibrosis
+  **DOI**：10.1172/JCI195121
+  **期刊**：The Journal of Clinical Investigation（2026-09-01）
+
+- **标题**：Transient Calcium Signaling Reprograms YAP Mechanosensitivity through Actin Remodeling
+  **DOI**：10.1016/j.actbio.2026.09.002
+  **期刊**：Acta Biomaterialia（2026-09-03，Epub ahead of print）
