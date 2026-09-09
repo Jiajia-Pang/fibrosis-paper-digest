@@ -35,3 +35,15 @@
   **期刊**: Proceedings of the National Academy of Sciences (PNAS) (2026-08-27)
   **DOI**: 10.1073/pnas.2601536123
   **PMID**: 42658765
+
+## 2026-09-09
+
+- **标题**: Overcoming Intrinsic Barriers in Myofibroblasts Permits Efficient Cardiac Reprogramming After Infarction
+  **期刊**: Circulation (2026-09-08)
+  **DOI**: 10.1161/CIRCULATIONAHA.126.078415
+  **PMID**: 42708181
+
+- **标题**: Stiffness-Dependent Mechanotransductive Signaling in Silicone Implant-Associated Fibrotic Encapsulation
+  **期刊**: ACS Applied Bio Materials (2026-09-07)
+  **DOI**: 10.1021/acsabm.6c01259
+  **PMID**: 42702991
