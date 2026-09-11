@@ -47,3 +47,15 @@
   **期刊**: ACS Applied Bio Materials (2026-09-07)
   **DOI**: 10.1021/acsabm.6c01259
   **PMID**: 42702991
+
+## 2026-09-11
+
+- **标题**: Genome folding and nuclear speckles converge to orchestrate fibroblast activation
+  **期刊**: Science Advances (2026-08-14)
+  **DOI**: 10.1126/sciadv.aec3453
+  **PMID**: 42599997
+
+- **标题**: A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis
+  **期刊**: The Journal of Investigative Dermatology (2026-09-09)
+  **DOI**: 10.1016/j.jid.2026.07.037
+  **PMID**: 42716212
