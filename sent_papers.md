@@ -59,3 +59,15 @@
   **期刊**: The Journal of Investigative Dermatology (2026-09-09)
   **DOI**: 10.1016/j.jid.2026.07.037
   **PMID**: 42716212
+
+## 2026-09-14
+
+- **标题**: A FGFR3 decoy receptor attenuates lung fibroblast-to-myofibroblast transition and pulmonary fibrosis
+  **期刊**: American Journal of Respiratory Cell and Molecular Biology (2026-09-01)
+  **DOI**: 10.1093/ajrcmb/aanag012
+  **PMID**: 41738290
+
+- **标题**: CUDC-907 attenuates pulmonary fibrosis by reversing HDAC1-mediated SMAD4 deacetylation at lysine 45
+  **期刊**: Biology Direct (2026-08-25)
+  **DOI**: 10.1186/s13062-026-00951-9
+  **PMID**: 42681646
