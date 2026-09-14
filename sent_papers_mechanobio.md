@@ -31,3 +31,13 @@
 - **标题**：Transient Calcium Signaling Reprograms YAP Mechanosensitivity through Actin Remodeling
   **DOI**：10.1016/j.actbio.2026.09.002
   **期刊**：Acta Biomaterialia（2026-09-03，Epub ahead of print）
+
+## 2026-09-14
+
+- **标题**：Matrix Stiffness Orchestrates Mesenchymal Stem Cell Lineage Commitment Toward Osteogenesis and Adipogenesis Through the PIEZO1/SP1/STC2 Axis
+  **DOI**：10.1002/advs.77385
+  **期刊**：Advanced Science（2026-09-06，Epub ahead of print）
+
+- **标题**：CD266+ myofibroblasts mediate resistance to immunochemotherapy through ECM stiffness in head and neck squamous cell carcinoma
+  **DOI**：10.1158/2326-6066.CIR-25-1379
+  **期刊**：Cancer Immunology Research（2026-08-31，Epub ahead of print）
