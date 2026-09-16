@@ -71,3 +71,15 @@
   **期刊**: Biology Direct (2026-08-25)
   **DOI**: 10.1186/s13062-026-00951-9
   **PMID**: 42681646
+
+## 2026-09-16
+
+- **标题**: Critical role for the TGF-β1/mTORC1 signaling axis in defining the transcriptional identity of CTHRC1+ pathologic fibroblasts
+  **期刊**: Science Advances (2026-09-02)
+  **DOI**: 10.1126/sciadv.adx9868
+  **PMID**: 42685210
+
+- **标题**: Single nucleus transcriptomics reveals ITGA8-driven fibroblast remodeling in rheumatic valvular atrial fibrillation
+  **期刊**: iScience (2026-09-01)
+  **DOI**: 10.1016/j.isci.2026.117310
+  **PMID**: 42733494
