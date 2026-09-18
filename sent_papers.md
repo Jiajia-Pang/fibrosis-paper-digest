@@ -83,3 +83,15 @@
   **期刊**: iScience (2026-09-01)
   **DOI**: 10.1016/j.isci.2026.117310
   **PMID**: 42733494
+
+## 2026-09-18
+
+- **标题**: The heterogeneity of dermal mesenchymal cells reproduced in skin equivalents regulates barrier function and elasticity
+  **期刊**: EMBO Reports (2026-04-01)
+  **DOI**: 10.1038/s44319-026-00757-w
+  **PMID**: 41922844
+
+- **标题**: SerpinA3 is an Endogenous TGF-β Receptor Antagonist that Attenuates Cardiac Fibroblast Activation and Fibrotic Remodeling
+  **期刊**: Advanced Science (2026-08-30)
+  **DOI**: 10.1002/advs.77379
+  **PMID**: 42669162
