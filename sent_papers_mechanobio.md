@@ -41,3 +41,13 @@
 - **标题**：CD266+ myofibroblasts mediate resistance to immunochemotherapy through ECM stiffness in head and neck squamous cell carcinoma
   **DOI**：10.1158/2326-6066.CIR-25-1379
   **期刊**：Cancer Immunology Research（2026-08-31，Epub ahead of print）
+
+## 2026-09-21
+
+- **标题**：Hmmr+ Fibroblasts Facilitate Hair Regeneration by Biomechanical Sensing of Extracellular Matrix Viscoelasticity
+  **DOI**：10.34133/research.1430
+  **期刊**：Research (Washington, D.C.)（2026-09-14，Epub ahead of print）
+
+- **标题**：Stiffness-Dependent Mechanotransductive Signaling in Silicone Implant-Associated Fibrotic Encapsulation
+  **DOI**：10.1021/acsabm.6c01259
+  **期刊**：ACS Applied Bio Materials（2026-09-07，Epub ahead of print）
