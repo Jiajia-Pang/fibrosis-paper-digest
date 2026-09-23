@@ -95,3 +95,15 @@
   **期刊**: Advanced Science (2026-08-30)
   **DOI**: 10.1002/advs.77379
   **PMID**: 42669162
+
+## 2026-09-23
+
+- **标题**: RUNX1 is expressed in a subpopulation of dermal fibroblasts and is associated with disease severity of systemic sclerosis
+  **期刊**: Annals of the Rheumatic Diseases (2025-12-11, Epub ahead of print; 正式卷期 2026年3月 85卷3期 507-518页)
+  **DOI**: 10.1016/j.ard.2025.10.033
+  **PMID**: 41381303
+
+- **标题**: Sulfotransferase signaling sustains fibroblast identity and antagonizes therapeutic cardiac reprogramming
+  **期刊**: Nature Communications (2026-07-17)
+  **DOI**: 10.1038/s41467-026-75583-8
+  **PMID**: 42469251
