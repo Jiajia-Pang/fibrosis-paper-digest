@@ -107,3 +107,17 @@
   **期刊**: Nature Communications (2026-07-17)
   **DOI**: 10.1038/s41467-026-75583-8
   **PMID**: 42469251
+
+## 2026-09-25
+
+- **标题**: A Circuit of Mechanically Regulated Transcription Factors Balances Regenerative and Fibrotic Memory of Mesenchymal Stromal Cells
+  **期刊**: Advanced Science (2026-04-22)
+  **DOI**: 10.1002/advs.202522056
+  **PMID**: 42017357
+  **备注**: 近1个月内未检索到足够高度相关的原创研究，放宽至近3年内发表的重要论文；该文直接聚焦"机械记忆"机制，与用户研究方向高度契合。
+
+- **标题**: Single-cell atlas of photoaged skin reveals JAK-STAT blockade as a strategy to reverse dermal remodeling
+  **期刊**: Frontiers in Immunology (2026-07-01)
+  **DOI**: 10.3389/fimmu.2026.1748123
+  **PMID**: 42459655
+  **备注**: 近1个月内未检索到足够高度相关的原创研究，放宽至近3年内发表的重要论文；该文首次以单细胞分辨率鉴定"乳头状-网状过渡连续统"，与用户研究的网状/乳头状成纤维细胞异质性问题高度对应。
