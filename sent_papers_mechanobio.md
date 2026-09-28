@@ -51,3 +51,13 @@
 - **标题**：Stiffness-Dependent Mechanotransductive Signaling in Silicone Implant-Associated Fibrotic Encapsulation
   **DOI**：10.1021/acsabm.6c01259
   **期刊**：ACS Applied Bio Materials（2026-09-07，Epub ahead of print）
+
+## 2026-09-28
+
+- **标题**：Transient calcium signaling reprograms YAP mechanosensitivity through actin remodeling
+  **DOI**：10.1016/j.actbio.2026.09.002
+  **期刊**：Acta Biomaterialia（2026-09-03）
+
+- **标题**：Soft substrate priming erases fibrotic mechanical memory in mesenchymal stromal cells via YAP lysosomal degradation to improve therapeutic efficacy for spinal cord injury
+  **DOI**：10.1016/j.biomaterials.2026.124311
+  **期刊**：Biomaterials（2026-05-14）
