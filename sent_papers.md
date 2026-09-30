@@ -121,3 +121,16 @@
   **DOI**: 10.3389/fimmu.2026.1748123
   **PMID**: 42459655
   **备注**: 近1个月内未检索到足够高度相关的原创研究，放宽至近3年内发表的重要论文；该文首次以单细胞分辨率鉴定"乳头状-网状过渡连续统"，与用户研究的网状/乳头状成纤维细胞异质性问题高度对应。
+
+## 2026-09-30
+
+- **标题**: A metabolic-epigenetic switch governs multicellular cardiac repair following succinate dehydrogenase inhibition
+  **期刊**: Nature Cardiovascular Research (2026-09-28)
+  **DOI**: 10.1038/s44161-026-00881-9
+  **PMID**: 42806167
+
+- **标题**: 3D-Printing-Assisted, Microfabricated Devices Reveal Hierarchical and Temporal Mechanosensing in High-Density Fibroblast Culture
+  **期刊**: ACS Nano (2026-05-08)
+  **DOI**: 10.1021/acsnano.5c16167
+  **PMID**: 42101022
+  **备注**: 近1个月内未检索到同时满足"高质量期刊+机械力学方向+高度贴合成纤维细胞纤维化相关性"的原创研究，放宽至近3年内（约5个月前）发表的重要论文；该文直接研究基质应力各向异性对成纤维细胞-肌成纤维细胞转化的时序性调控（机械记忆的时间层级），与用户"机械记忆"研究方向高度契合。
