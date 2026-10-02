@@ -134,3 +134,15 @@
   **DOI**: 10.1021/acsnano.5c16167
   **PMID**: 42101022
   **备注**: 近1个月内未检索到同时满足"高质量期刊+机械力学方向+高度贴合成纤维细胞纤维化相关性"的原创研究，放宽至近3年内（约5个月前）发表的重要论文；该文直接研究基质应力各向异性对成纤维细胞-肌成纤维细胞转化的时序性调控（机械记忆的时间层级），与用户"机械记忆"研究方向高度契合。
+
+## 2026-10-02
+
+- **标题**: Apoptosis inhibition reprograms alveolar myofibroblasts toward ductal myofibroblasts
+  **期刊**: Cell Reports (2026-09-07)
+  **DOI**: 10.1016/j.celrep.2026.117891
+  **PMID**: 42704712
+
+- **标题**: Aberrant and ectopic cell populations in restrictive allograft syndrome after lung transplantation
+  **期刊**: European Respiratory Journal (2026-09-25)
+  **DOI**: 10.1183/13993003.00537-2025
+  **PMID**: 42425730

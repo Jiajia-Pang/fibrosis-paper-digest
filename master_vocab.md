@@ -1,4 +1,4 @@
-# 高频词汇 Top 10（截至2026-09-30）
+# 高频词汇 Top 10（截至2026-10-02）
 
 累计出现次数并列的词按字母顺序排列。
 
@@ -10,7 +10,7 @@
 | 4 | TGF-β1 (transforming growth factor beta 1) | 生物学术语 | 10 |
 | 5 | α-SMA (alpha smooth muscle actin) | 生物学术语 | 10 |
 | 6 | fibroblast activation | 生物学术语 | 9 |
-| 7 | single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 8 |
+| 7 | single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 9 |
 | 8 | collagen deposition | 医学术语 | 7 |
 | 9 | collagen gel contraction assay | 实验技术与方法 | 6 |
 | 10 | recapitulate | 学术通用表达 | 6 |
