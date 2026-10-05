@@ -61,3 +61,13 @@
 - **标题**：Soft substrate priming erases fibrotic mechanical memory in mesenchymal stromal cells via YAP lysosomal degradation to improve therapeutic efficacy for spinal cord injury
   **DOI**：10.1016/j.biomaterials.2026.124311
   **期刊**：Biomaterials（2026-05-14）
+
+## 2026-10-05
+
+- **标题**：Matrix viscoelasticity amplifies pro-fibrotic crosstalk between cardiac fibroblasts and macrophages
+  **DOI**：10.1016/j.celrep.2026.118041
+  **期刊**：Cell Reports（2026-09-24）
+
+- **标题**：Effect of hydrogel properties on fibroblast morphodynamics
+  **DOI**：10.1016/j.bioadv.2026.215192
+  **期刊**：Biomaterials Advances（2026-09-21）
