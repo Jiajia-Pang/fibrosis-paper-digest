@@ -146,3 +146,16 @@
   **期刊**: European Respiratory Journal (2026-09-25)
   **DOI**: 10.1183/13993003.00537-2025
   **PMID**: 42425730
+
+## 2026-10-07
+
+- **标题**: Matrix viscoelasticity amplifies pro-fibrotic crosstalk between cardiac fibroblasts and macrophages
+  **期刊**: Cell Reports (2026-09-24)
+  **DOI**: 10.1016/j.celrep.2026.118041
+  **PMID**: 42784458
+
+- **标题**: Lactate derived from macrophages drives skin dermal fibroblasts phenotypic remodeling via MCT1-primed histone H3 lysine 23 lactylation in hypertrophic scar
+  **期刊**: Nature Communications (2026-02-12)
+  **DOI**: 10.1038/s41467-026-69388-y
+  **PMID**: 41680147
+  **备注**: 近1个月内未检索到同时满足"高质量期刊+皮肤成纤维细胞+表观遗传"的原创研究，放宽至近3年内（约8个月前）发表的重要论文；该文直接研究皮肤真皮成纤维细胞的表型重塑及其组蛋白乳酸化表观遗传机制，并涉及基质刚度对巨噬细胞代谢的调控，与用户"表型漂移"及"基质硬度"研究方向高度契合。
