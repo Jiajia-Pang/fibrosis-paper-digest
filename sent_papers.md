@@ -159,3 +159,17 @@
   **DOI**: 10.1038/s41467-026-69388-y
   **PMID**: 41680147
   **备注**: 近1个月内未检索到同时满足"高质量期刊+皮肤成纤维细胞+表观遗传"的原创研究，放宽至近3年内（约8个月前）发表的重要论文；该文直接研究皮肤真皮成纤维细胞的表型重塑及其组蛋白乳酸化表观遗传机制，并涉及基质刚度对巨噬细胞代谢的调控，与用户"表型漂移"及"基质硬度"研究方向高度契合。
+
+## 2026-10-09
+
+- **标题**: A Gata4-Loxl2 axis controls ECM remodeling to enable scar-free spinal cord regeneration in zebrafish
+  **期刊**: Cell Reports (2026-10-05)
+  **DOI**: 10.1016/j.celrep.2026.118050
+  **PMID**: 42837255
+  **备注**: 全文未能通过PMC或WebFetch获取（无PMC号，WebFetch工具本次运行网络故障），总结基于PubMed摘要撰写并已在推送内容中明确标注。该文直接研究基质刚度/胶原交联如何通过Loxl2b调控细胞命运（瘢痕形成vs再生），与用户"基质硬度"及"机械记忆"方向高度契合，故仍予以推送。
+
+- **标题**: A four-dimensional spatial atlas of spinal cord injury reveals predominant Spp1-integrin signaling driving microglia-fibroblast crosstalk in fibrotic niches
+  **期刊**: Frontiers in Immunology (2026-09-11)
+  **DOI**: 10.3389/fimmu.2026.1926947
+  **PMID**: 42798452
+  **备注**: 近1个月内检索到的高度相关候选论文有限，Frontiers in Immunology非用户常用顶刊清单内期刊，但该文是原创研究，综合运用空间转录组+单细胞转录组+细胞分化轨迹分析构建成纤维细胞异质性分类体系，方法学上与用户研究高度相关，故予以推送。
