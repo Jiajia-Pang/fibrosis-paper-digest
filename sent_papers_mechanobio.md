@@ -71,3 +71,13 @@
 - **标题**：Effect of hydrogel properties on fibroblast morphodynamics
   **DOI**：10.1016/j.bioadv.2026.215192
   **期刊**：Biomaterials Advances（2026-09-21）
+
+## 2026-10-12
+
+- **标题**：GATA4 Regulates Fibroblast Migration in a Fibroblast-Source-Dependent Manner under Physiological Matrix Stiffness
+  **DOI**：10.3389/fcvm.2026.1865878
+  **期刊**：Frontiers in Cardiovascular Medicine（2026-09-16）
+
+- **标题**：Matrix stiffness and stress relaxation regulate matrix-bound nanovesicle release from alginate hydrogels
+  **DOI**：10.1039/d6bm00832a
+  **期刊**：Biomaterials Science（2026-10-03）
