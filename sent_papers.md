@@ -173,3 +173,17 @@
   **DOI**: 10.3389/fimmu.2026.1926947
   **PMID**: 42798452
   **备注**: 近1个月内检索到的高度相关候选论文有限，Frontiers in Immunology非用户常用顶刊清单内期刊，但该文是原创研究，综合运用空间转录组+单细胞转录组+细胞分化轨迹分析构建成纤维细胞异质性分类体系，方法学上与用户研究高度相关，故予以推送。
+
+## 2026-10-14
+
+- **标题**: Exacerbation of renal interstitial fibrosis by the UHRF1/G9a axis through epigenetic silencing of KLF15
+  **期刊**: Renal Failure (2026-09-21)
+  **DOI**: 10.1080/0886022X.2026.2719260
+  **PMID**: 42768892
+  **备注**: 原创研究，发表于近1个月内。机制明确（成纤维细胞特异性UHRF1敲除+ChIP-qPCR+CUT&Tag验证组蛋白H3K9甲基化沉默KLF15），与用户"表观遗传修饰"方向高度契合；期刊非顶刊清单内期刊，但经广泛检索近1个月内未发现更高影响力期刊的同等契合原创研究，故予以推送。
+
+- **标题**: Sustained-Release Sitagliptin Microneedles for Scar Prevention via Fibroblast-to-Adipocyte Conversion
+  **期刊**: Small Science (2025-10-21)
+  **DOI**: 10.1002/smsc.202500140
+  **PMID**: 41395508
+  **备注**: 近1个月及近3个月内未检索到同时满足"高质量期刊+成纤维细胞-脂肪细胞分化平衡"的原创研究，放宽至近1年发表的重要论文；该文直接研究DPP4+/DPP4-成纤维细胞亚群在成脂与成纤维两种命运之间的平衡及其分子开关（IGF1信号），与用户"脂肪细胞-肌成纤维细胞分化平衡"研究方向高度契合，故予以推送。
