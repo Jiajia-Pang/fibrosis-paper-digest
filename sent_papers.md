@@ -201,3 +201,17 @@
   **DOI**: 10.1093/ajrccm/aamag396
   **PMID**: 42518202
   **备注**: 原创研究，发表于近1个月内，顶刊（用户优先期刊清单内）。机制涵盖基质刚度驱动的YAP核转位、胶原V加工与黏着斑力学信号反馈环，与用户"基质硬度如何影响成纤维细胞"机械力学研究方向高度契合；已通过PMC获取完整全文及全部图注。
+
+## 2026-10-21
+
+- **标题**: Layer-Specific Dermal and Subcutaneous Delivery via Modular LNP-Hydrogel-Integrated Threaded Microneedles
+  **期刊**: Advanced Science (2026-09-21)
+  **DOI**: 10.1002/advs.77624
+  **PMID**: 42765288
+  **备注**: 原创研究，发表于近1个月内，顶刊（用户优先期刊清单内）。利用空间转录组学鉴定皮肤分层特异性靶点，核心机制涉及真皮成纤维细胞衰老与皮下脂肪细胞向肌成纤维细胞转化（AMT）的调控，与用户"脂肪细胞-肌成纤维细胞分化平衡"及"表型漂移"研究方向高度契合；已通过PMC获取完整全文及全部图注。
+
+- **标题**: Single-cell RNA-seq reveals increased TNFRSF9⁺ senescent fibroblasts and enhanced crosstalk between TNFRSF9⁺ fibroblasts and neural cells in keloids
+  **期刊**: Burns (2026-05-11)
+  **DOI**: 10.1016/j.burns.2026.108063
+  **PMID**: 42150394
+  **备注**: 近1个月内未检索到同时满足"高质量期刊+成纤维细胞异质性+与用户网状/乳头状亚群问题直接对应"的原创研究，放宽至近1年内发表的重要论文；该文通过scRNA-seq直接鉴定出"secretory-reticular"与"secretory-papillary"两类成纤维细胞亚群并构建分化轨迹，与用户"网状/乳头状成纤维细胞异质性"研究方向直接、高度契合；期刊非顶刊清单内期刊且无PMC开放全文，图表解读基于摘要推断，已在推送内容中明确标注。
