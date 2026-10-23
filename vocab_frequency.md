@@ -245,7 +245,7 @@
 | Fc fusion protein | 生物学术语 | 1 | 2026-09-14 |
 | feed-forward loop | 生物学术语 | 1 | 2026-10-09 |
 | fibrillar collagen bundle | 生物学术语 | 1 | 2026-10-23 |
-| fibroblast activation | 生物学术语 | 13 | 2026-10-21 |
+| fibroblast activation | 生物学术语 | 14 | 2026-10-23 |
 | fibroblast activation protein (FAP) | 生物学术语 | 1 | 2026-09-18 |
 | fibroblast attachment | 生物学术语 | 1 | 2026-10-23 |
 | fibroblast fate maintenance | 生物学术语 | 1 | 2026-09-04 |
@@ -595,7 +595,7 @@
 | SerpinA3 / SerpinA3K | 生物学术语 | 1 | 2026-09-18 |
 | shRNA screen | 实验技术与方法 | 1 | 2026-09-09 |
 | shRNA-mediated knockdown | 实验技术与方法 | 1 | 2026-09-23 |
-| single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 12 | 2026-10-21 |
+| single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 13 | 2026-10-23 |
 | single-cell transcriptomics | 实验技术与方法 | 2 | 2026-09-14 |
 | single-nucleus RNA sequencing (snRNA-seq) | 生物学术语 | 3 | 2026-10-02 |
 | Sircol collagen assay | 实验技术与方法 | 1 | 2026-09-14 |
