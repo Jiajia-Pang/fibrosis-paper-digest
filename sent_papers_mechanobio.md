@@ -91,3 +91,13 @@
 - **标题**：Actin filament and microtubule-centered cytoskeletal abnormalities are associated with intracellular structural disorder and cellular softening in keratoconus stromal fibroblasts
   **DOI**：10.1016/j.ijbiomac.2026.154715
   **期刊**：International Journal of Biological Macromolecules（2026-10-03）
+
+## 2026-10-26
+
+- **标题**：Cadherin-11 mediates kidney injury through altered renal fibroblast mechanobiology
+  **DOI**：10.1016/j.kint.2026.06.027
+  **期刊**：Kidney International（2026-07-22，Epub ahead of print）
+
+- **标题**：Cardiomyocyte-expressed TGFβ programs early heart maturation and adult myocyte identity
+  **DOI**：10.1038/s44161-026-00892-6
+  **期刊**：Nature Cardiovascular Research（2026-10-23）
