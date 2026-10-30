@@ -243,3 +243,17 @@
   **DOI**: 10.1016/j.xcrm.2026.103103
   **PMID**: 42901146
   **备注**: 原创研究，发表于近1个月内，Cell Press旗下期刊。综合运用单细胞转录组、空间转录组（Visium、CosMx）、细胞-细胞通讯推断（NicheNet）、谱系特异性基因敲除等方法，鉴定CD47+成纤维细胞-SIRPα+巨噬细胞吞噬逃逸轴驱动纤维化；核心生物学（免疫检查点介导的成纤维细胞清除抵抗）与用户具体研究方向（基质硬度/机械记忆/脂肪-肌成纤维细胞分化平衡）关联较弱，但其单细胞+空间转录组联合分析及细胞间通讯推断方法学高度可迁移，故予以推送。已通过PMC获取完整全文及全部图注。
+
+## 2026-10-30
+
+- **标题**: Pathogenic Keratinocyte States and Fibroblast Niches Define the Tissue Microenvironment in Severe Hidradenitis Suppurativa
+  **期刊**: The Journal of Investigative Dermatology (2026-10-22)
+  **DOI**: 10.1016/j.jid.2026.08.033
+  **PMID**: 42914005
+  **备注**: 原创研究，发表于近1个月内，顶刊（用户优先期刊清单内）。综合运用单细胞RNA测序与空间转录组学，直接鉴定出COL6A5+乳头状成纤维细胞这一与未分化角质形成细胞空间共定位的亚群（另与APOD+成纤维细胞对照），与用户"网状/乳头状成纤维细胞异质性"研究方向直接、高度契合；无PMC开放全文，机构网络亦无法访问出版商页面（doi.org及期刊域名在本环境网络策略中不可解析），图表解读基于摘要推断，已在推送内容中明确标注。
+
+- **标题**: T-Cell-Derived IFNγ Instructs ECM Crosslinking by Cardiac Fibroblasts Through LOXL3 in Experimental Cardiometabolic HFpEF
+  **期刊**: Circulation Research (2026-10-28)
+  **DOI**: 10.1161/CIRCRESAHA.126.328307
+  **PMID**: 42948903
+  **备注**: 原创研究，发表仅2天前，顶刊（用户优先期刊清单内）。通过去细胞化心脏组织单轴拉伸测试直接测量基质刚度，并证明免疫细胞(CD4+T细胞)通过IFNγ-HIF1α-LOXL3信号轴诱导心脏成纤维细胞胶原交联从而升高基质刚度，与用户"基质硬度如何影响成纤维细胞"机械力学研究方向高度契合（提供了"细胞外因素驱动基质刚度变化、进而反馈调控成纤维细胞"的另一视角）；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
