@@ -101,3 +101,13 @@
 - **标题**：Cardiomyocyte-expressed TGFβ programs early heart maturation and adult myocyte identity
   **DOI**：10.1038/s44161-026-00892-6
   **期刊**：Nature Cardiovascular Research（2026-10-23）
+
+## 2026-11-02
+
+- **标题**：Substrate stiffness dictates unique paths towards proliferative arrest in WI-38 cells
+  **DOI**：10.1007/s11357-025-01858-5
+  **期刊**：GeroScience（2025-09-20）
+
+- **标题**：Substrate Stiffness and Viscoelasticity Influence Fibroblast Senescence
+  **DOI**：10.1002/jbm.a.70111
+  **期刊**：Journal of Biomedical Materials Research Part A（2026-07）
