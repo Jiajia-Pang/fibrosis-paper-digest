@@ -257,3 +257,17 @@
   **DOI**: 10.1161/CIRCRESAHA.126.328307
   **PMID**: 42948903
   **备注**: 原创研究，发表仅2天前，顶刊（用户优先期刊清单内）。通过去细胞化心脏组织单轴拉伸测试直接测量基质刚度，并证明免疫细胞(CD4+T细胞)通过IFNγ-HIF1α-LOXL3信号轴诱导心脏成纤维细胞胶原交联从而升高基质刚度，与用户"基质硬度如何影响成纤维细胞"机械力学研究方向高度契合（提供了"细胞外因素驱动基质刚度变化、进而反馈调控成纤维细胞"的另一视角）；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
+
+## 2026-11-04
+
+- **标题**: Nicotinamide N-methyltransferase drives fibroblast activation and skin fibrosis in systemic sclerosis
+  **期刊**: Annals of the Rheumatic Diseases (2026-11-02)
+  **DOI**: 10.1016/j.ard.2026.10.3163
+  **PMID**: 42971883
+  **备注**: 原创研究，发表仅2天前，顶刊（风湿免疫领域权威期刊）。综合运用bulk RNA-seq、单细胞RNA-seq与空间转录组学定位NNMT在SSc皮损中表达上调的成纤维细胞亚群，并通过siRNA/药理学抑制NNMT揭示其通过改变SAM/SAH甲基化潜能及组蛋白甲基化模式驱动TGFβ-ATF4/SOX9/SRF转录网络，与用户"表观遗传修饰"及"单细胞/空间转录组"两大研究方向同时高度契合。注：本文作者列表中含"Pang, Jiajia"（Department of Dermatology, Medical University of Vienna），与用户姓名及研究机构背景相符，可能为用户本人参与的工作，在推送中已特别说明供用户核对。无PMC开放全文，机构网络亦无法访问出版商页面（doi.org及期刊域名在本环境网络策略中不可解析），图表解读基于摘要推断，已在推送内容中明确标注。
+
+- **标题**: Fibroblast-specific deletion of Yap/Taz impairs mouse postnatal dermal development by diminishing collagenous matrix
+  **期刊**: Journal of Investigative Dermatology (2026-06-18)
+  **DOI**: 10.1016/j.jid.2026.05.034
+  **PMID**: 42314933
+  **备注**: 原创研究，顶刊（用户优先期刊清单内）。近1个月内未检索到在"基质硬度/机械力学如何调控皮肤成纤维细胞"这一具体方向上同等契合的原创研究，放宽至约4.5个月前发表的论文。通过成纤维细胞特异性Yap/Taz基因敲除小鼠+RNA-seq+空间转录组学+蛋白质组学，直接证明YAP/TAZ机械转导通路通过TGF-β/Smad信号驱动皮肤胶原合成与真皮ECM成熟，与用户"基质硬度如何影响皮肤成纤维细胞"机械力学研究方向高度契合；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
