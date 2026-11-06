@@ -8,6 +8,7 @@
 | "eat-me"/"don't-eat-me" signal | 生物学术语 | 1 | 2026-10-28 |
 | "outside-in" adaptation | 学术通用表达 | 1 | 2026-10-23 |
 | 1-methylnicotinamide (1-MNA) | 生物学术语 | 1 | 2026-09-11 |
+| 10x Chromium single-cell platform | 实验技术与方法 | 1 | 2026-11-06 |
 | 10x Genomics platform | 实验技术与方法 | 1 | 2026-09-18 |
 | 2D fast Fourier transform (2D-FFT) analysis | 实验技术与方法 | 1 | 2026-09-18 |
 | 3D bioprinting | 实验技术与方法 | 1 | 2026-09-18 |
@@ -49,7 +50,7 @@
 | CTHRC1 (collagen triple helix repeat containing 1) | 生物学术语 | 3 | 2026-10-02 |
 | CUT&RUN (Cleavage Under Targets & Release Using Nuclease) | 实验技术与方法 | 2 | 2026-09-30 |
 | CUT&Tag (Cleavage Under Targets and Tagmentation) | 实验技术与方法 | 3 | 2026-10-14 |
-| CellChat analysis | 实验技术与方法 | 7 | 2026-10-21 |
+| CellChat analysis | 实验技术与方法 | 8 | 2026-11-06 |
 | ChIP-qPCR | 实验技术与方法 | 2 | 2026-10-14 |
 | ChIP-seq (chromatin immunoprecipitation sequencing) | 实验技术与方法 | 2 | 2026-09-23 |
 | Col1a2 promoter-driven lineage targeting | 实验技术与方法 | 1 | 2026-09-16 |
@@ -99,7 +100,7 @@
 | Loxl2 (lysyl oxidase-like 2) | 生物学术语 | 1 | 2026-10-09 |
 | MH1 domain | 生物学术语 | 1 | 2026-09-14 |
 | MRTF/SRF (myocardin-related transcription factor / serum response factor) | 生物学术语 | 2 | 2026-11-04 |
-| Masson's trichrome staining | 实验技术与方法 | 6 | 2026-10-21 |
+| Masson's trichrome staining | 实验技术与方法 | 7 | 2026-11-06 |
 | Mendelian randomization analysis | 实验技术与方法 | 1 | 2026-10-28 |
 | Monocle (trajectory inference tool) | 实验技术与方法 | 4 | 2026-10-09 |
 | NAD+ metabolism | 生物学术语 | 1 | 2026-09-11 |
@@ -164,7 +165,7 @@
 | Xenium spatial transcriptomics | 实验技术与方法 | 1 | 2026-09-02 |
 | YAP/TAZ signaling | 生物学术语 | 2 | 2026-11-04 |
 | Young's modulus | 实验技术与方法 | 1 | 2026-10-07 |
-| aberrant | 学术通用表达 | 3 | 2026-09-23 |
+| aberrant | 学术通用表达 | 4 | 2026-11-06 |
 | aberrant basaloid cell | 生物学术语 | 1 | 2026-10-02 |
 | abnormal wound healing | 医学术语 | 1 | 2026-10-21 |
 | abrogate | 学术通用表达 | 2 | 2026-10-16 |
@@ -186,7 +187,9 @@
 | alveolar myofibroblast (AMF) | 生物学术语 | 1 | 2026-10-02 |
 | alveologenesis | 生物学术语 | 1 | 2026-10-02 |
 | ameliorate | 学术通用表达 | 3 | 2026-10-14 |
+| anagen | 医学术语 | 1 | 2026-11-06 |
 | analogous | 学术通用表达 | 1 | 2026-10-14 |
+| angiogenic fibroblast (AF) | 生物学术语 | 1 | 2026-11-06 |
 | angiotensin II infusion | 实验技术与方法 | 1 | 2026-10-23 |
 | antagonize | 学术通用表达 | 1 | 2026-09-09 |
 | antisense oligonucleotide (ASO) | 实验技术与方法 | 1 | 2026-09-04 |
@@ -194,9 +197,10 @@
 | aristolochic acid nephropathy | 医学术语 | 1 | 2026-10-23 |
 | asporin (ASPN) | 生物学术语 | 1 | 2026-09-16 |
 | at least in part | 学术通用表达 | 1 | 2026-11-04 |
-| atomic force microscopy (AFM) | 实验技术与方法 | 1 | 2026-10-23 |
+| atomic force microscopy (AFM) | 实验技术与方法 | 2 | 2026-11-06 |
 | atopic dermatitis | 医学术语 | 1 | 2026-09-18 |
 | attenuate | 学术通用表达 | 19 | 2026-11-04 |
+| augment | 学术通用表达 | 1 | 2026-11-06 |
 | avidly | 学术通用表达 | 1 | 2026-09-16 |
 | axonal bridging | 医学术语 | 1 | 2026-10-09 |
 | bidirectional | 学术通用表达 | 1 | 2026-09-04 |
@@ -212,11 +216,13 @@
 | bronchoalveolar lavage fluid (BALF) | 医学术语 | 1 | 2026-09-14 |
 | bronchopulmonary dysplasia | 医学术语 | 1 | 2026-10-02 |
 | bulk RNA sequencing | 实验技术与方法 | 4 | 2026-11-04 |
+| bulk RNA-seq | 实验技术与方法 | 1 | 2026-11-06 |
 | cadherin-11 (CDH11) | 生物学术语 | 1 | 2026-10-23 |
 | cadherin-mediated junction | 生物学术语 | 1 | 2026-09-30 |
 | calcineurin | 生物学术语 | 1 | 2026-09-04 |
 | cancer-associated fibroblast (CAF) | 医学术语 | 1 | 2026-09-16 |
 | canonical | 学术通用表达 | 3 | 2026-09-16 |
+| canonical Wnt/β-catenin pathway | 生物学术语 | 1 | 2026-11-06 |
 | capsular contracture | 医学术语 | 1 | 2026-09-09 |
 | carbohydrate sulfotransferase (CHST7) | 生物学术语 | 1 | 2026-09-23 |
 | cardiac fibroblast (CF) | 生物学术语 | 4 | 2026-10-30 |
@@ -226,6 +232,7 @@
 | cardiac reprogramming | 生物学术语 | 1 | 2026-09-23 |
 | cardiogenic program | 生物学术语 | 1 | 2026-09-09 |
 | cardiorenal injury | 医学术语 | 1 | 2026-10-23 |
+| catagen | 医学术语 | 1 | 2026-11-06 |
 | catalytic-dead mutant | 生物学术语 | 1 | 2026-09-14 |
 | causal connection | 学术通用表达 | 1 | 2026-09-04 |
 | cell fate conversion | 生物学术语 | 1 | 2026-10-14 |
@@ -246,6 +253,7 @@
 | chromatin state | 生物学术语 | 1 | 2026-09-30 |
 | chronic kidney disease (CKD) | 医学术语 | 1 | 2026-10-23 |
 | chronic lung allograft dysfunction (CLAD) | 医学术语 | 1 | 2026-10-02 |
+| chronic wound | 医学术语 | 1 | 2026-11-06 |
 | chronicity index | 医学术语 | 1 | 2026-09-02 |
 | cis-regulatory element | 生物学术语 | 1 | 2026-10-09 |
 | cleaved Caspase-3 | 生物学术语 | 1 | 2026-10-02 |
@@ -258,7 +266,7 @@
 | cohesin | 生物学术语 | 1 | 2026-09-11 |
 | cohesin-sensitive gene | 生物学术语 | 1 | 2026-09-11 |
 | collagen cross-linking | 生物学术语 | 2 | 2026-10-30 |
-| collagen deposition | 医学术语 | 10 | 2026-11-04 |
+| collagen deposition | 医学术语 | 11 | 2026-11-06 |
 | collagen fibrillogenesis | 生物学术语 | 1 | 2026-10-16 |
 | collagen gel contraction assay | 实验技术与方法 | 7 | 2026-10-16 |
 | collagen homeostasis | 生物学术语 | 1 | 2026-10-23 |
@@ -269,7 +277,7 @@
 | compliant (material) | 学术通用表达 | 1 | 2026-09-09 |
 | compromise (n.) | 学术通用表达 | 1 | 2026-09-14 |
 | concerted | 学术通用表达 | 1 | 2026-09-25 |
-| concomitant | 学术通用表达 | 4 | 2026-10-14 |
+| concomitant | 学术通用表达 | 5 | 2026-11-06 |
 | concordant | 学术通用表达 | 2 | 2026-10-28 |
 | conditioned media (CM) | 实验技术与方法 | 1 | 2026-09-02 |
 | confocal z-stack imaging | 实验技术与方法 | 1 | 2026-10-09 |
@@ -285,7 +293,7 @@
 | convergence | 学术通用表达 | 2 | 2026-09-16 |
 | convergent | 学术通用表达 | 1 | 2026-09-11 |
 | core-binding factor β (CBFβ) | 生物学术语 | 1 | 2026-09-23 |
-| corroborate | 学术通用表达 | 3 | 2026-09-25 |
+| corroborate | 学术通用表达 | 4 | 2026-11-06 |
 | counterintuitively | 学术通用表达 | 1 | 2026-10-07 |
 | covarying neighborhood analysis (CNA) | 实验技术与方法 | 1 | 2026-09-02 |
 | crosstalk | 学术通用表达 | 3 | 2026-10-07 |
@@ -296,13 +304,15 @@
 | cutaneous fibrosis | 医学术语 | 2 | 2026-10-21 |
 | cytokine array | 实验技术与方法 | 1 | 2026-10-23 |
 | cytoskeletal remodeling | 生物学术语 | 2 | 2026-09-16 |
+| db/db mouse model | 实验技术与方法 | 1 | 2026-11-06 |
 | debilitating | 学术通用表达 | 1 | 2026-09-02 |
 | decellularized tissue | 实验技术与方法 | 1 | 2026-10-30 |
 | decoy receptor | 生物学术语 | 1 | 2026-09-14 |
 | dedifferentiation | 生物学术语 | 1 | 2026-09-02 |
 | deduce | 学术通用表达 | 1 | 2026-10-02 |
-| delineate | 学术通用表达 | 5 | 2026-10-28 |
+| delineate | 学术通用表达 | 6 | 2026-11-06 |
 | dermal fibroblast (DF) | 生物学术语 | 1 | 2026-11-04 |
+| dermal papilla (DP) | 生物学术语 | 1 | 2026-11-06 |
 | dermal thickening | 医学术语 | 2 | 2026-10-21 |
 | dermal white adipose tissue (dWAT) | 生物学术语 | 1 | 2026-09-11 |
 | dermal-epidermal junction (DEJ) | 生物学术语 | 1 | 2026-09-25 |
@@ -310,6 +320,7 @@
 | designate (as) | 学术通用表达 | 1 | 2026-10-21 |
 | desquamation | 医学术语 | 1 | 2026-09-25 |
 | deterioration | 学术通用表达 | 1 | 2026-10-23 |
+| diabetic wound healing | 医学术语 | 1 | 2026-11-06 |
 | diastolic dysfunction | 医学术语 | 1 | 2026-10-30 |
 | dictate | 学术通用表达 | 2 | 2026-09-16 |
 | differentially accessible loci (DAL) | 生物学术语 | 1 | 2026-09-25 |
@@ -338,11 +349,12 @@
 | echocardiography (ejection fraction/fractional shortening) | 实验技术与方法 | 4 | 2026-10-30 |
 | efferocytosis | 生物学术语 | 2 | 2026-10-28 |
 | elastic modulus | 实验技术与方法 | 1 | 2026-09-09 |
+| elastin (Eln) | 生物学术语 | 1 | 2026-11-06 |
 | elucidate | 学术通用表达 | 8 | 2026-10-30 |
 | elusive | 学术通用表达 | 1 | 2026-10-16 |
 | encompass | 学术通用表达 | 1 | 2026-09-16 |
 | endothelial-to-mesenchymal activation (EndMA) | 生物学术语 | 1 | 2026-09-16 |
-| endothelial-to-mesenchymal transition (EndMT) | 生物学术语 | 1 | 2026-09-23 |
+| endothelial-to-mesenchymal transition (EndMT) | 生物学术语 | 2 | 2026-11-06 |
 | enforce lineage stability | 学术通用表达 | 1 | 2026-09-04 |
 | enhancer | 生物学术语 | 1 | 2026-09-11 |
 | enigmatic | 学术通用表达 | 1 | 2026-10-02 |
@@ -350,13 +362,13 @@
 | ependymo-radial glial cell (ERG) | 生物学术语 | 1 | 2026-10-09 |
 | epidermal hyperplasia | 医学术语 | 1 | 2026-09-25 |
 | epigenetic profiling | 实验技术与方法 | 1 | 2026-11-04 |
-| epithelial-mesenchymal transition (EMT) | 生物学术语 | 3 | 2026-10-02 |
+| epithelial-mesenchymal transition (EMT) | 生物学术语 | 4 | 2026-11-06 |
 | establish causal relationships | 学术通用表达 | 1 | 2026-09-25 |
 | evolutionarily conserved | 学术通用表达 | 1 | 2026-09-18 |
 | exacerbate | 学术通用表达 | 3 | 2026-10-14 |
 | extracellular acidification rate (ECAR) | 生物学术语 | 1 | 2026-10-07 |
 | extracellular domain (ECD) | 生物学术语 | 2 | 2026-09-18 |
-| extracellular matrix (ECM) | 生物学术语 | 22 | 2026-11-04 |
+| extracellular matrix (ECM) | 生物学术语 | 23 | 2026-11-06 |
 | fascia fibroblast | 生物学术语 | 1 | 2026-10-16 |
 | fatty acid oxidation (FAO) | 生物学术语 | 1 | 2026-09-02 |
 | feed-forward loop | 生物学术语 | 1 | 2026-10-09 |
@@ -366,7 +378,7 @@
 | fibroblast attachment | 生物学术语 | 1 | 2026-10-23 |
 | fibroblast fate maintenance | 生物学术语 | 1 | 2026-09-04 |
 | fibroblast growth factor (FGF) / FGF receptor (FGFR) | 生物学术语 | 1 | 2026-09-14 |
-| fibroblast heterogeneity | 生物学术语 | 4 | 2026-10-28 |
+| fibroblast heterogeneity | 生物学术语 | 5 | 2026-11-06 |
 | fibroblast spreading | 生物学术语 | 1 | 2026-10-23 |
 | fibroblast-like transcriptional program | 生物学术语 | 1 | 2026-10-09 |
 | fibroblast-to-myofibroblast transition | 生物学术语 | 4 | 2026-09-30 |
@@ -377,6 +389,7 @@
 | fibroproliferative disease | 医学术语 | 2 | 2026-10-07 |
 | fibrotic encapsulation | 医学术语 | 1 | 2026-09-09 |
 | fibrotic fibroblast | 生物学术语 | 1 | 2026-10-02 |
+| fibrotic fibroblast (FF) | 生物学术语 | 1 | 2026-11-06 |
 | fibrotic transcriptional program | 生物学术语 | 2 | 2026-09-16 |
 | fibrous crescents | 医学术语 | 1 | 2026-09-02 |
 | finite element model/simulation | 实验技术与方法 | 1 | 2026-09-30 |
@@ -385,13 +398,13 @@
 | flow-activated nuclei sorting (FANS) | 实验技术与方法 | 1 | 2026-10-02 |
 | fluorescence-activated cell sorting (FACS) | 实验技术与方法 | 4 | 2026-10-16 |
 | focal adhesion (FA) | 生物学术语 | 1 | 2026-10-16 |
-| focal adhesion kinase (FAK) | 生物学术语 | 2 | 2026-10-16 |
+| focal adhesion kinase (FAK) | 生物学术语 | 3 | 2026-11-06 |
 | focal adhesion maturation | 生物学术语 | 1 | 2026-09-30 |
 | foreign body response | 医学术语 | 1 | 2026-09-09 |
 | foreskin fibroblast | 实验技术与方法 | 1 | 2026-09-11 |
 | gatekeeper | 生物学术语 | 1 | 2026-09-14 |
 | gene induction | 生物学术语 | 1 | 2026-09-11 |
-| gene set enrichment analysis (GSEA) | 实验技术与方法 | 3 | 2026-10-21 |
+| gene set enrichment analysis (GSEA) | 实验技术与方法 | 4 | 2026-11-06 |
 | gene set variation analysis (GSVA) | 实验技术与方法 | 1 | 2026-09-23 |
 | genetic deletion (knockout) | 实验技术与方法 | 1 | 2026-09-04 |
 | genetic depletion | 实验技术与方法 | 1 | 2026-10-30 |
@@ -400,7 +413,8 @@
 | glycolytic reserve | 生物学术语 | 1 | 2026-10-07 |
 | glycolytic signature | 生物学术语 | 1 | 2026-09-02 |
 | glycosaminoglycan (GAG) | 生物学术语 | 1 | 2026-09-23 |
-| granulation tissue | 医学术语 | 1 | 2026-09-30 |
+| granulation tissue | 医学术语 | 2 | 2026-11-06 |
+| hair follicle neogenesis | 医学术语 | 1 | 2026-11-06 |
 | hallmark | 学术通用表达 | 2 | 2026-10-14 |
 | heart failure (HF) | 医学术语 | 1 | 2026-09-18 |
 | heart failure with preserved ejection fraction (HFpEF) | 医学术语 | 1 | 2026-10-30 |
@@ -419,6 +433,8 @@
 | human dermal fibroblast | 生物学术语 | 1 | 2026-09-09 |
 | human skin equivalent (HSE) | 实验技术与方法 | 1 | 2026-09-18 |
 | hyaluronan (HA) | 生物学术语 | 1 | 2026-09-23 |
+| hyaluronan-mediated motility receptor (HMMR) | 生物学术语 | 1 | 2026-11-06 |
+| hyaluronic acid (HA) | 生物学术语 | 1 | 2026-11-06 |
 | hyaluronic acid methacrylate (HAMA) | 实验技术与方法 | 1 | 2026-10-14 |
 | hydroxyproline | 医学术语 | 4 | 2026-10-07 |
 | hypersensitivity pneumonitis | 医学术语 | 1 | 2026-10-16 |
@@ -433,14 +449,15 @@
 | immune-stromal interaction | 生物学术语 | 1 | 2026-10-07 |
 | immunoblotting (Western blot) | 实验技术与方法 | 2 | 2026-09-18 |
 | immunofluorescence (IF) | 实验技术与方法 | 5 | 2026-10-28 |
+| immunofluorescence (IF) co-staining | 实验技术与方法 | 1 | 2026-11-06 |
 | immunofluorescence staining | 实验技术与方法 | 2 | 2026-09-30 |
 | immunohistochemistry (IHC) | 实验技术与方法 | 3 | 2026-10-21 |
 | impair | 学术通用表达 | 1 | 2026-11-04 |
 | impede | 学术通用表达 | 1 | 2026-10-09 |
-| implicate | 学术通用表达 | 3 | 2026-11-04 |
+| implicate | 学术通用表达 | 4 | 2026-11-06 |
 | in situ Hi-C | 实验技术与方法 | 1 | 2026-09-11 |
 | incompletely understood | 学术通用表达 | 1 | 2026-10-30 |
-| indispensable | 学术通用表达 | 1 | 2026-09-14 |
+| indispensable | 学术通用表达 | 2 | 2026-11-06 |
 | induced cardiomyocyte (iCM) | 生物学术语 | 1 | 2026-09-09 |
 | inflammaging | 生物学术语 | 1 | 2026-09-25 |
 | instruct (instructs) | 学术通用表达 | 1 | 2026-10-30 |
@@ -450,6 +467,7 @@
 | integrin αvβ6 | 生物学术语 | 1 | 2026-10-02 |
 | interferon-γ (IFNγ) | 生物学术语 | 1 | 2026-10-30 |
 | interplay | 学术通用表达 | 2 | 2026-10-16 |
+| interrogate | 学术通用表达 | 1 | 2026-11-06 |
 | interrogation | 学术通用表达 | 1 | 2026-10-07 |
 | intersectional | 学术通用表达 | 1 | 2026-10-02 |
 | interstitial fibrosis | 医学术语 | 2 | 2026-09-16 |
@@ -457,7 +475,7 @@
 | interstitium | 生物学术语 | 1 | 2026-10-23 |
 | intestinal fibrosis | 医学术语 | 1 | 2026-10-28 |
 | intricate | 学术通用表达 | 1 | 2026-10-16 |
-| intriguingly | 学术通用表达 | 1 | 2026-09-18 |
+| intriguingly | 学术通用表达 | 2 | 2026-11-06 |
 | intrinsic barrier | 生物学术语 | 1 | 2026-09-09 |
 | invariant/invariance | 学术通用表达 | 1 | 2026-09-30 |
 | ischemia-reperfusion (I/R) injury | 医学术语 | 1 | 2026-09-18 |
@@ -491,6 +509,7 @@
 | loop extrusion | 生物学术语 | 1 | 2026-09-11 |
 | lung adenocarcinoma | 医学术语 | 1 | 2026-09-16 |
 | lupus nephritis (LN) | 医学术语 | 1 | 2026-09-02 |
+| lysyl oxidase | 生物学术语 | 1 | 2026-11-06 |
 | mTORC1 / mTORC2 (mechanistic target of rapamycin complex 1/2) | 生物学术语 | 1 | 2026-09-16 |
 | macromolecular crowding assay | 实验技术与方法 | 2 | 2026-10-16 |
 | magnetic-activated cell sorting (MACS) | 实验技术与方法 | 1 | 2026-10-07 |
@@ -508,7 +527,7 @@
 | mechanoreciprocity | 生物学术语 | 1 | 2026-09-04 |
 | mechanosensitive ion channel | 生物学术语 | 1 | 2026-09-30 |
 | mechanosensitive protein | 生物学术语 | 1 | 2026-10-23 |
-| mechanotransduction | 生物学术语 | 2 | 2026-09-30 |
+| mechanotransduction | 生物学术语 | 3 | 2026-11-06 |
 | mesangial cell | 生物学术语 | 1 | 2026-09-02 |
 | mesenchymal fibroblast | 生物学术语 | 1 | 2026-10-21 |
 | mesenchymal identity | 生物学术语 | 1 | 2026-09-04 |
@@ -523,8 +542,9 @@
 | microneedle patch (MNP) | 实验技术与方法 | 1 | 2026-10-14 |
 | micropost array | 实验技术与方法 | 1 | 2026-09-30 |
 | mirror (v.) | 学术通用表达 | 1 | 2026-10-16 |
-| mitigate | 学术通用表达 | 2 | 2026-09-16 |
+| mitigate | 学术通用表达 | 3 | 2026-11-06 |
 | mitochondrial superoxide | 生物学术语 | 1 | 2026-10-28 |
+| mitogen-activated protein kinase (MAPK) | 生物学术语 | 1 | 2026-11-06 |
 | modifiable | 学术通用表达 | 1 | 2026-09-09 |
 | modified Rodnan Skin Score (mRSS) | 医学术语 | 1 | 2026-09-23 |
 | modular | 学术通用表达 | 1 | 2026-10-21 |
@@ -550,6 +570,7 @@
 | nintedanib | 医学术语 | 2 | 2026-09-16 |
 | nodal | 学术通用表达 | 1 | 2026-09-16 |
 | nominate | 学术通用表达 | 2 | 2026-09-25 |
+| noncanonical Wnt/EMT pathway | 生物学术语 | 1 | 2026-11-06 |
 | normalize | 学术通用表达 | 1 | 2026-10-23 |
 | notably | 学术通用表达 | 2 | 2026-09-18 |
 | nuclear YAP localization | 生物学术语 | 1 | 2026-09-09 |
@@ -562,14 +583,17 @@
 | oligopaint DNA FISH | 实验技术与方法 | 1 | 2026-09-11 |
 | oncogenic transformation | 医学术语 | 1 | 2026-09-11 |
 | optical coherence tomography (OCT) | 实验技术与方法 | 1 | 2026-09-30 |
-| orchestrate | 学术通用表达 | 2 | 2026-10-16 |
+| orchestrate | 学术通用表达 | 3 | 2026-11-06 |
 | organizing pneumonia | 医学术语 | 1 | 2026-10-16 |
+| organoid transplantation | 实验技术与方法 | 1 | 2026-11-06 |
 | orthogonal validation | 学术通用表达 | 1 | 2026-09-04 |
 | osteogenesis | 生物学术语 | 1 | 2026-09-25 |
 | osteogenic/chondrogenic differentiation | 生物学术语 | 1 | 2026-10-14 |
 | osteopontin (SPP1) | 生物学术语 | 2 | 2026-10-09 |
+| overwhelm | 学术通用表达 | 1 | 2026-11-06 |
 | oxidative phosphorylation (OXPHOS) | 生物学术语 | 1 | 2026-10-07 |
 | panniculus carnosus (PC) fibroblast | 生物学术语 | 1 | 2026-10-16 |
+| papillary dermal fibroblast | 生物学术语 | 1 | 2026-11-06 |
 | papillary fibroblast | 生物学术语 | 4 | 2026-10-30 |
 | papillary-to-reticular transitional continuum | 生物学术语 | 1 | 2026-09-25 |
 | paracrine signaling | 生物学术语 | 1 | 2026-10-07 |
@@ -614,6 +638,7 @@
 | postulate | 学术通用表达 | 1 | 2026-10-16 |
 | preserve (cell) identity | 学术通用表达 | 1 | 2026-10-09 |
 | pressure overload | 医学术语 | 1 | 2026-09-18 |
+| pressure ulcer | 医学术语 | 1 | 2026-11-06 |
 | previously unappreciated | 学术通用表达 | 1 | 2026-09-14 |
 | previously unrecognized | 学术通用表达 | 2 | 2026-09-18 |
 | primary human fibroblast culture | 实验技术与方法 | 2 | 2026-11-04 |
@@ -624,7 +649,8 @@
 | profibrotic marker | 生物学术语 | 1 | 2026-10-28 |
 | profibrotic program | 生物学术语 | 1 | 2026-11-04 |
 | proliferative vitreoretinopathy | 医学术语 | 1 | 2026-09-23 |
-| proteoglycan | 生物学术语 | 1 | 2026-09-23 |
+| pronouncedly | 学术通用表达 | 1 | 2026-11-06 |
+| proteoglycan | 生物学术语 | 2 | 2026-11-06 |
 | proteomics | 实验技术与方法 | 1 | 2026-11-04 |
 | proximity ligation assay (PLA) | 实验技术与方法 | 2 | 2026-09-23 |
 | pruritus | 医学术语 | 1 | 2026-10-07 |
@@ -633,12 +659,14 @@
 | pulmonary arterial hypertension (PAH) | 医学术语 | 1 | 2026-10-16 |
 | pySCENIC regulon analysis | 实验技术与方法 | 1 | 2026-09-04 |
 | qRT-PCR | 实验技术与方法 | 6 | 2026-10-09 |
+| quantitative reverse transcription polymerase chain reaction (qRT-PCR) | 实验技术与方法 | 1 | 2026-11-06 |
 | quiescent | 生物学术语 | 3 | 2026-09-30 |
+| re-epithelialization | 医学术语 | 1 | 2026-11-06 |
 | re-transection | 医学术语 | 1 | 2026-10-09 |
 | reactive astrocyte | 生物学术语 | 1 | 2026-10-09 |
 | reactive oxygen species (ROS) | 生物学术语 | 1 | 2026-09-02 |
-| recapitulate | 学术通用表达 | 13 | 2026-11-04 |
-| reciprocal | 学术通用表达 | 1 | 2026-10-28 |
+| recapitulate | 学术通用表达 | 14 | 2026-11-06 |
+| reciprocal | 学术通用表达 | 2 | 2026-11-06 |
 | reciprocally | 学术通用表达 | 2 | 2026-10-21 |
 | reconcile | 学术通用表达 | 2 | 2026-09-30 |
 | redirect | 学术通用表达 | 1 | 2026-10-14 |
@@ -653,6 +681,7 @@
 | rescue experiment (gene reintroduction) | 实验技术与方法 | 1 | 2026-11-04 |
 | resolve (a population into subtypes) | 学术通用表达 | 1 | 2026-09-25 |
 | restrictive allograft syndrome (RAS) | 医学术语 | 1 | 2026-10-02 |
+| reticular dermal fibroblast | 生物学术语 | 1 | 2026-11-06 |
 | reticular fibroblast | 生物学术语 | 3 | 2026-10-28 |
 | rheological analysis (storage/loss modulus) | 实验技术与方法 | 1 | 2026-10-21 |
 | rheumatic valvular disease | 医学术语 | 1 | 2026-09-16 |
@@ -673,11 +702,12 @@
 | senescence-associated secretory phenotype (SASP) | 生物学术语 | 2 | 2026-10-21 |
 | senescent phenotype | 生物学术语 | 1 | 2026-10-21 |
 | sequester | 学术通用表达 | 1 | 2026-09-14 |
+| shRNA knockdown | 实验技术与方法 | 1 | 2026-11-06 |
 | shRNA screen | 实验技术与方法 | 1 | 2026-09-09 |
 | shRNA-mediated knockdown | 实验技术与方法 | 1 | 2026-09-23 |
 | siRNA knockdown | 实验技术与方法 | 4 | 2026-10-16 |
 | siRNA-mediated knockdown | 实验技术与方法 | 4 | 2026-11-04 |
-| single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 17 | 2026-11-04 |
+| single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 18 | 2026-11-06 |
 | single-cell transcriptomics | 实验技术与方法 | 2 | 2026-09-14 |
 | single-nucleus RNA sequencing (snRNA-seq) | 生物学术语 | 4 | 2026-10-28 |
 | single-sample gene set enrichment analysis (ssGSEA) | 实验技术与方法 | 1 | 2026-10-28 |
@@ -687,6 +717,7 @@
 | spatial transcriptomics | 实验技术与方法 | 7 | 2026-11-04 |
 | spatiotemporal | 学术通用表达 | 1 | 2026-10-16 |
 | spinal cord injury (SCI) | 医学术语 | 1 | 2026-10-09 |
+| splinted excisional wound model | 实验技术与方法 | 1 | 2026-11-06 |
 | spur (v.) | 学术通用表达 | 1 | 2026-10-16 |
 | stabilize | 学术通用表达 | 1 | 2026-09-09 |
 | stereolithographic 3D printing | 实验技术与方法 | 1 | 2026-09-30 |
@@ -700,6 +731,7 @@
 | stromal niche | 生物学术语 | 1 | 2026-10-30 |
 | subcellular fractionation | 实验技术与方法 | 2 | 2026-09-11 |
 | subcutaneous implantation model | 实验技术与方法 | 1 | 2026-09-09 |
+| substantiate | 学术通用表达 | 1 | 2026-11-06 |
 | succinate dehydrogenase (SDH) | 生物学术语 | 1 | 2026-09-30 |
 | superimpose | 学术通用表达 | 1 | 2026-09-25 |
 | surface plasmon resonance (SPR) | 实验技术与方法 | 1 | 2026-09-14 |
@@ -709,9 +741,11 @@
 | synergistic | 学术通用表达 | 1 | 2026-10-21 |
 | systemic lupus erythematosus (SLE) | 医学术语 | 1 | 2026-09-02 |
 | systemic sclerosis (SSc) | 医学术语 | 3 | 2026-11-04 |
+| t-distributed stochastic neighbor embedding (t-SNE) | 实验技术与方法 | 1 | 2026-11-06 |
 | tamoxifen induction | 实验技术与方法 | 2 | 2026-10-07 |
 | tandem mass tag (TMT)-based acetylome profiling | 实验技术与方法 | 1 | 2026-09-14 |
 | tandem mass tag (TMT)-based quantitative proteomics | 实验技术与方法 | 1 | 2026-09-18 |
+| telogen | 医学术语 | 1 | 2026-11-06 |
 | tensional/stress anisotropy | 生物学术语 | 1 | 2026-09-30 |
 | tertiary lymphoid organ (TLO) | 医学术语 | 1 | 2026-10-30 |
 | threaded microneedle platform | 实验技术与方法 | 1 | 2026-10-21 |
@@ -745,7 +779,8 @@
 | undifferentiated keratinocyte | 生物学术语 | 1 | 2026-10-30 |
 | unequivocally | 学术通用表达 | 1 | 2026-09-14 |
 | uniaxial tensile testing | 实验技术与方法 | 1 | 2026-10-30 |
-| uniform manifold approximation and projection (UMAP) | 生物学术语 | 3 | 2026-10-02 |
+| uniform manifold approximation and projection (UMAP) | 生物学术语 | 4 | 2026-11-06 |
+| unify | 学术通用表达 | 1 | 2026-11-06 |
 | unilateral ureteral obstruction (UUO) | 实验技术与方法 | 1 | 2026-10-23 |
 | uninephrectomy | 医学术语 | 1 | 2026-10-23 |
 | unmet clinical need | 学术通用表达 | 1 | 2026-09-18 |
@@ -757,7 +792,7 @@
 | vimentin | 生物学术语 | 3 | 2026-10-16 |
 | vinculin | 生物学术语 | 1 | 2026-10-16 |
 | viscoelastic coculture platform | 实验技术与方法 | 1 | 2026-10-07 |
-| viscoelasticity | 生物学术语 | 1 | 2026-10-07 |
+| viscoelasticity | 生物学术语 | 2 | 2026-11-06 |
 | vitiligo | 医学术语 | 1 | 2026-09-25 |
 | von Willebrand factor (vWF) | 生物学术语 | 1 | 2026-09-18 |
 | warrant | 学术通用表达 | 4 | 2026-10-21 |

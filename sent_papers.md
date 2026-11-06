@@ -271,3 +271,31 @@
   **DOI**: 10.1016/j.jid.2026.05.034
   **PMID**: 42314933
   **备注**: 原创研究，顶刊（用户优先期刊清单内）。近1个月内未检索到在"基质硬度/机械力学如何调控皮肤成纤维细胞"这一具体方向上同等契合的原创研究，放宽至约4.5个月前发表的论文。通过成纤维细胞特异性Yap/Taz基因敲除小鼠+RNA-seq+空间转录组学+蛋白质组学，直接证明YAP/TAZ机械转导通路通过TGF-β/Smad信号驱动皮肤胶原合成与真皮ECM成熟，与用户"基质硬度如何影响皮肤成纤维细胞"机械力学研究方向高度契合；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
+
+## 2026-11-06
+
+- **标题**: HmmrFibroblasts Facilitate Hair Regeneration by Biomechanical Sensing of Extracellular Matrix Viscoelasticity
+  **期刊**: Research (Washington, D.C.) (2026-09-14)
+  **DOI**: 10.34133/research.1430
+  **PMID**: 42741478
+  **备注**: 原创研究，发表于约7.5周前（略超近1个月窗口）。期刊为AAAS旗下Science Partner Journal，非用户清单内顶刊，但方法学严谨（scRNA-seq+AFM原位力学测量+多模型功能验证）。文中明确提及"papillary dermal fibroblasts, reticular dermal fibroblasts"异质性背景，并鉴定出网状真皮层特异性力学感受成纤维细胞亚群(HmmrFBs)通过ECM粘弹性感知驱动毛囊再生，与用户"基质硬度/力学如何影响成纤维细胞异质性"及"网状/乳头状成纤维细胞"研究方向高度契合；已通过PMC获取完整全文及全部7张图注原文。
+
+- **标题**: Mechanotransduction unifies healthy nondiabetic wound healing over time by promoting a Cd14+/C1qa+ fibroblast subpopulation
+  **期刊**: The Journal of Investigative Dermatology (2026-04-15, Epub ahead of print; 正式卷期 Vol.146 No.10)
+  **DOI**: 10.1016/j.jid.2026.02.027
+  **PMID**: 41997300
+  **备注**: 原创研究，顶刊（用户优先期刊清单内）。近1个月及近3个月内未检索到在"机械转导+成纤维细胞异质性"这一具体方向上同等契合的更新原创研究，放宽至约7个月前发表的论文。通过3种糖尿病/非糖尿病小鼠模型+多时间点scRNA-seq+多重免疫荧光验证，证明FAK/MAPK机械转导通路驱动的血管生成性成纤维细胞亚群(Cd14+/C1qa+)时序性激活是健康创面愈合的关键，糖尿病则使该时序紊乱，与用户"基质硬度/机械力学如何调控成纤维细胞"研究方向高度契合；已通过PMC获取完整全文，但原文图注的具体图号标记在全文抽取工具处理时丢失，推送内容中已明确标注为基于正文内容推断的图序。
+
+## 2026-11-04
+
+- **标题**: Nicotinamide N-methyltransferase drives fibroblast activation and skin fibrosis in systemic sclerosis
+  **期刊**: Annals of the Rheumatic Diseases (2026-11-02)
+  **DOI**: 10.1016/j.ard.2026.10.3163
+  **PMID**: 42971883
+  **备注**: 原创研究，发表仅2天前，顶刊（风湿免疫领域权威期刊）。综合运用bulk RNA-seq、单细胞RNA-seq与空间转录组学定位NNMT在SSc皮损中表达上调的成纤维细胞亚群，并通过siRNA/药理学抑制NNMT揭示其通过改变SAM/SAH甲基化潜能及组蛋白甲基化模式驱动TGFβ-ATF4/SOX9/SRF转录网络，与用户"表观遗传修饰"及"单细胞/空间转录组"两大研究方向同时高度契合。注：本文作者列表中含"Pang, Jiajia"（Department of Dermatology, Medical University of Vienna），与用户姓名及研究机构背景相符，可能为用户本人参与的工作，在推送中已特别说明供用户核对。无PMC开放全文，机构网络亦无法访问出版商页面（doi.org及期刊域名在本环境网络策略中不可解析），图表解读基于摘要推断，已在推送内容中明确标注。
+
+- **标题**: Fibroblast-specific deletion of Yap/Taz impairs mouse postnatal dermal development by diminishing collagenous matrix
+  **期刊**: Journal of Investigative Dermatology (2026-06-18)
+  **DOI**: 10.1016/j.jid.2026.05.034
+  **PMID**: 42314933
+  **备注**: 原创研究，顶刊（用户优先期刊清单内）。近1个月内未检索到在"基质硬度/机械力学如何调控皮肤成纤维细胞"这一具体方向上同等契合的原创研究，放宽至约4.5个月前发表的论文。通过成纤维细胞特异性Yap/Taz基因敲除小鼠+RNA-seq+空间转录组学+蛋白质组学，直接证明YAP/TAZ机械转导通路通过TGF-β/Smad信号驱动皮肤胶原合成与真皮ECM成熟，与用户"基质硬度如何影响皮肤成纤维细胞"机械力学研究方向高度契合；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
