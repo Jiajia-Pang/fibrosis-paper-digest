@@ -111,3 +111,13 @@
 - **标题**：Substrate Stiffness and Viscoelasticity Influence Fibroblast Senescence
   **DOI**：10.1002/jbm.a.70111
   **期刊**：Journal of Biomedical Materials Research Part A（2026-07）
+
+## 2026-11-09
+
+- **标题**：Prepatterned Tissue Stiffness Gradient Controls Organ Shape and Size
+  **DOI**：10.64898/2026.09.04.748946
+  **期刊**：bioRxiv（预印本，尚未经同行评审，2026-09-09）
+
+- **标题**：T-Cell-Derived IFNγ Instructs ECM Crosslinking by Cardiac Fibroblasts Through LOXL3 in Experimental Cardiometabolic HFpEF
+  **DOI**：10.1161/CIRCRESAHA.126.328307
+  **期刊**：Circulation Research（2026-10-28，Epub ahead of print）
