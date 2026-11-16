@@ -121,3 +121,13 @@
 - **标题**：T-Cell-Derived IFNγ Instructs ECM Crosslinking by Cardiac Fibroblasts Through LOXL3 in Experimental Cardiometabolic HFpEF
   **DOI**：10.1161/CIRCRESAHA.126.328307
   **期刊**：Circulation Research（2026-10-28，Epub ahead of print）
+
+## 2026-11-16
+
+- **标题**：αTAT1 links microtubules to stiffness sensing, fibroblast activation, and fibrosis
+  **DOI**：10.1172/jci.insight.201695
+  **期刊**：JCI Insight（2026-11-09）
+
+- **标题**：Dysregulation of mechanosensing signaling in monocytes of patients with systemic sclerosis is associated with skin inflammation
+  **DOI**：10.1073/pnas.2609599123
+  **期刊**：Proceedings of the National Academy of Sciences of the United States of America（2026-11-05）
