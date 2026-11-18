@@ -327,3 +327,17 @@
   **DOI**: 10.1007/s11427-025-3429-6
   **PMID**: 42944808
   **备注**: 原创研究，发表于近1个月内。期刊非用户清单内顶刊，但机制证据完整（成纤维细胞特异性Prdm16敲除+全长/截短变体过表达+启动子结合/NuRD复合体招募机制）。直接契合用户"表观遗传修饰"及"细胞分化（成纤维细胞-肌成纤维细胞转化）"研究方向，故予以推送；无PMC开放全文，机构网络亦无法访问出版商页面，图表解读基于摘要推断，已在推送内容中明确标注。
+
+## 2026-11-18
+
+- **标题**: High-resolution spatial transcriptomics reveals fibroblast and neuroimmune microenvironments in endometriosis lesions
+  **期刊**: Nature Communications (2026-10-09)
+  **DOI**: 10.1038/s41467-026-78453-5
+  **PMID**: 42988828
+  **备注**: 原创研究，顶刊（Nature子刊）。发表于约5.5周前（略超近1个月窗口，但近1个月内未检索到同等契合的原创研究，故予以纳入）。综合运用Visium/Visium HD/Xenium三种空间转录组学平台+IMC+3D类器官共培养，鉴定出围绕子宫内膜异位病灶上皮腺体呈层状分布的MME+（Close Stroma）与OGN+（Far Stroma）两个成纤维细胞空间亚域，方法学（多平台空间转录组学联合界定成纤维细胞空间亚群）与用户"网状/乳头状成纤维细胞异质性"研究方向高度可迁移；已通过PMC获取完整全文，但原文图注的具体图号标记在全文抽取工具处理时丢失，推送内容中已明确标注为基于正文结果小节顺序推断的图序。
+
+- **标题**: Pharmaceutical blockade of the neonatal Fc receptor (FcRn) ameliorates autoimmunity, inflammation, and fibrosis in the antitopoisomerase-I antibody-driven mouse model of systemic sclerosis
+  **期刊**: Annals of the Rheumatic Diseases (2026-11-10)
+  **DOI**: 10.1016/j.ard.2026.10.3168
+  **PMID**: 43009401
+  **备注**: 原创研究，顶刊（用户优先期刊清单内，发表仅8天前）。通过单核RNA测序揭示FcRn阻断（efgartigimod）逆转TopoI诱导型系统性硬化症小鼠模型中成纤维细胞-巨噬细胞致纤维化交互作用、减少肌成纤维细胞及活化巨噬细胞积累，与用户"脂肪细胞/肌成纤维细胞分化平衡"及"单细胞分析"研究方向相关，核心机制（成纤维细胞活化状态的单细胞水平逆转）可为用户提供方法学参考；无PMC开放全文，机构网络亦无法访问出版商页面（doi.org及期刊域名在本环境网络策略中不可解析），图表解读基于摘要推断，已在推送内容中明确标注。
