@@ -4,12 +4,15 @@
 
 | 英文词汇 | 类别 | 累计出现次数 | 最近出现日期 |
 |---|---|---|---|
+| 2^-ΔΔCt method | 实验技术与方法 | 1 | 2026-11-23 |
 | 2D fast Fourier transform (2D-FFT) analysis | 实验技术与方法 | 1 | 2026-08-31 |
 | 3D collagen invasion assay | 实验技术与方法 | 1 | 2026-09-07 |
 | abolish | 学术通用表达 | 2 | 2026-11-16 |
 | accordingly | 学术通用表达 | 1 | 2026-11-16 |
+| Acta2 (α-SMA-encoding gene) | 生物学术语 | 1 | 2026-11-23 |
 | actin depolymerization | 生物学术语 | 2 | 2026-09-28 |
 | actin remodeling | 生物学术语 | 1 | 2026-09-28 |
+| actomyosin contractility | 生物学术语 | 1 | 2026-11-23 |
 | actomyosin cytoskeleton | 生物学术语 | 2 | 2026-10-12 |
 | adenoviral Cre-mediated deletion | 实验技术与方法 | 1 | 2026-10-12 |
 | adipogenesis | 医学术语 | 2 | 2026-09-14 |
@@ -26,8 +29,9 @@
 | ATAC-seq | 实验技术与方法 | 2 | 2026-11-02 |
 | atomic force microscopy (AFM) | 实验技术与方法 | 4 | 2026-11-09 |
 | atopic dermatitis | 医学术语 | 1 | 2026-08-31 |
-| attenuate | 学术通用表达 | 4 | 2026-11-09 |
+| attenuate | 学术通用表达 | 5 | 2026-11-23 |
 | attenuation | 学术通用表达 | 2 | 2026-09-28 |
+| attribute to | 学术通用表达 | 1 | 2026-11-23 |
 | AUCell (signature scoring) | 实验技术与方法 | 1 | 2026-09-14 |
 | autoimmune connective tissue disease | 医学术语 | 1 | 2026-11-16 |
 | beta-galactosidase (beta-gal) | 生物学术语 | 1 | 2026-11-02 |
@@ -35,6 +39,7 @@
 | bioinert | 实验技术与方法 | 1 | 2026-10-12 |
 | biomechanical weakening | 医学术语 | 1 | 2026-10-19 |
 | biophysical regulator | 生物学术语 | 2 | 2026-09-28 |
+| biphasic | 学术通用表达 | 1 | 2026-11-23 |
 | blocking antibody | 实验技术与方法 | 1 | 2026-10-26 |
 | blood urea nitrogen (BUN) | 医学术语 | 1 | 2026-10-26 |
 | blunt | 学术通用表达 | 1 | 2026-09-28 |
@@ -85,14 +90,18 @@
 | coincident | 学术通用表达 | 1 | 2026-11-02 |
 | COL1A1/COL3A1 (collagen type I/III alpha 1 chain) | 生物学术语 | 2 | 2026-10-12 |
 | collagen crosslinking | 生物学术语 | 1 | 2026-11-09 |
+| collagen fiber organization | 生物学术语 | 1 | 2026-11-23 |
 | collagen gel contraction assay | 实验技术与方法 | 1 | 2026-09-07 |
+| collagen I-based 3-dimensional culture system | 实验技术与方法 | 1 | 2026-11-23 |
 | collagen-coated polyacrylamide hydrogel | 实验技术与方法 | 3 | 2026-11-16 |
 | collapsed (fibroblast) morphology | 生物学术语 | 1 | 2026-08-30 |
 | collectively | 学术通用表达 | 2 | 2026-10-19 |
+| colocalisation | 生物学术语 | 1 | 2026-11-23 |
 | concomitant | 学术通用表达 | 1 | 2026-11-02 |
 | conditional knockout (cKO) | 实验技术与方法 | 2 | 2026-11-16 |
 | conditional knockout (iCKO) | 实验技术与方法 | 2 | 2026-10-26 |
 | confocal laser scanning microscopy (CLSM) | 实验技术与方法 | 2 | 2026-10-12 |
+| confocal microscopy | 实验技术与方法 | 1 | 2026-11-23 |
 | confounding | 学术通用表达 | 1 | 2026-10-12 |
 | conserved | 学术通用表达 | 1 | 2026-11-16 |
 | consolidate | 学术通用表达 | 1 | 2026-08-31 |
@@ -103,7 +112,7 @@
 | corneal thinning | 医学术语 | 1 | 2026-10-19 |
 | corroborate | 学术通用表达 | 4 | 2026-11-02 |
 | counter to | 学术通用表达 | 1 | 2026-11-02 |
-| counterintuitively | 学术通用表达 | 1 | 2026-10-05 |
+| counterintuitively | 学术通用表达 | 2 | 2026-11-23 |
 | CRISPR-Cas9 gene editing | 实验技术与方法 | 1 | 2026-11-16 |
 | crosstalk | 学术通用表达 | 1 | 2026-10-05 |
 | CTGF (connective tissue growth factor) | 生物学术语 | 3 | 2026-09-28 |
@@ -112,7 +121,7 @@
 | Cutometer | 实验技术与方法 | 1 | 2026-08-31 |
 | cyclin-dependent kinase inhibitor | 生物学术语 | 1 | 2026-11-02 |
 | CYR61 | 生物学术语 | 2 | 2026-09-28 |
-| cytochalasin D | 实验技术与方法 | 1 | 2026-10-19 |
+| cytochalasin D | 实验技术与方法 | 2 | 2026-11-23 |
 | cytokine | 生物学术语 | 1 | 2026-10-05 |
 | cytokine array | 实验技术与方法 | 1 | 2026-10-26 |
 | cytoplasmic retention | 生物学术语 | 1 | 2026-09-28 |
@@ -129,6 +138,7 @@
 | dermal papilla (DP) | 生物学术语 | 1 | 2026-09-21 |
 | dermis | 医学术语 | 1 | 2026-08-30 |
 | descriptively | 学术通用表达 | 1 | 2026-10-12 |
+| diabetic ulcer | 医学术语 | 1 | 2026-11-23 |
 | diacylglycerol (DAG) | 生物学术语 | 1 | 2026-10-19 |
 | diastolic dysfunction | 医学术语 | 1 | 2026-11-09 |
 | directional alignment | 生物学术语 | 1 | 2026-11-16 |
@@ -164,14 +174,15 @@
 | exaggerated | 学术通用表达 | 1 | 2026-11-16 |
 | exocytosis | 生物学术语 | 1 | 2026-10-19 |
 | expand the understanding (of) | 学术通用表达 | 1 | 2026-10-19 |
-| extracellular matrix (ECM) | 生物学术语 | 8 | 2026-10-26 |
+| extracellular matrix (ECM) | 生物学术语 | 9 | 2026-11-23 |
 | extracellular vesicle (EV) | 生物学术语 | 1 | 2026-10-12 |
-| F-actin cytoskeleton | 生物学术语 | 2 | 2026-09-28 |
+| F-actin cytoskeleton | 生物学术语 | 3 | 2026-11-23 |
 | facilitate | 学术通用表达 | 1 | 2026-09-14 |
 | false discovery rate (FDR) | 实验技术与方法 | 1 | 2026-09-07 |
 | fibrillar collagen | 生物学术语 | 1 | 2026-08-30 |
 | fibroblast activation | 生物学术语 | 1 | 2026-10-05 |
 | fibroblast attachment | 生物学术语 | 1 | 2026-08-30 |
+| fibroblast heterogeneity | 生物学术语 | 1 | 2026-11-23 |
 | fibroblast quiescence | 生物学术语 | 1 | 2026-09-07 |
 | fibroblast-to-myofibroblast transition (FMT) | 生物学术语 | 1 | 2026-11-02 |
 | fibrogenesis | 医学术语 | 1 | 2026-08-31 |
@@ -179,15 +190,18 @@
 | fibronectin-coated micropattern | 实验技术与方法 | 1 | 2026-09-07 |
 | fibroproliferative disease | 医学术语 | 1 | 2026-09-07 |
 | fibrosis | 医学术语 | 4 | 2026-11-16 |
+| fibrotic disease | 医学术语 | 1 | 2026-11-23 |
 | fibrotic encapsulation | 医学术语 | 1 | 2026-09-21 |
+| fibrotic niche | 生物学术语 | 1 | 2026-11-23 |
 | fibrotic scar microenvironment | 生物学术语 | 1 | 2026-09-28 |
 | filopodia | 生物学术语 | 1 | 2026-08-30 |
 | filter (verb, gate a signal) | 学术通用表达 | 2 | 2026-09-28 |
+| finite element analysis | 实验技术与方法 | 1 | 2026-11-23 |
 | flow cytometry | 实验技术与方法 | 2 | 2026-09-14 |
 | fluorescence in situ hybridization (FISH) | 实验技术与方法 | 1 | 2026-11-09 |
 | Fluorescence Lifetime Imaging Microscopy (FLIM) | 实验技术与方法 | 1 | 2026-10-19 |
 | focal adhesion (FA) | 生物学术语 | 5 | 2026-11-16 |
-| focal adhesion kinase (FAK) phosphorylation | 生物学术语 | 3 | 2026-11-16 |
+| focal adhesion kinase (FAK) phosphorylation | 生物学术语 | 4 | 2026-11-23 |
 | force volume mapping | 实验技术与方法 | 1 | 2026-09-21 |
 | foreign body response | 医学术语 | 1 | 2026-09-21 |
 | formally establish | 学术通用表达 | 1 | 2026-09-07 |
@@ -216,8 +230,8 @@
 | human-induced pluripotent stem cell (hiPSC) | 生物学术语 | 1 | 2026-10-05 |
 | hyaluronan-mediated motility receptor (HMMR) | 生物学术语 | 1 | 2026-09-21 |
 | hyaluronic acid (HA)-based hydrogel | 实验技术与方法 | 1 | 2026-11-02 |
-| hypertrophic scarring | 医学术语 | 1 | 2026-08-31 |
-| hypothesize | 学术通用表达 | 1 | 2026-10-12 |
+| hypertrophic scarring | 医学术语 | 2 | 2026-11-23 |
+| hypothesize | 学术通用表达 | 2 | 2026-11-23 |
 | hypoxia-inducible factor-1α (HIF1α) | 生物学术语 | 1 | 2026-11-09 |
 | idiopathic pulmonary fibrosis | 医学术语 | 3 | 2026-11-02 |
 | immune dysregulation | 医学术语 | 1 | 2026-11-16 |
@@ -226,7 +240,7 @@
 | immune-stromal interaction | 生物学术语 | 2 | 2026-11-09 |
 | immunochemotherapy | 医学术语 | 1 | 2026-09-14 |
 | immunocytochemistry | 实验技术与方法 | 1 | 2026-08-30 |
-| immunofluorescence staining | 实验技术与方法 | 6 | 2026-11-09 |
+| immunofluorescence staining | 实验技术与方法 | 7 | 2026-11-23 |
 | immunohistochemistry | 实验技术与方法 | 2 | 2026-09-14 |
 | immunomodulatory | 医学术语 | 2 | 2026-10-12 |
 | impair | 学术通用表达 | 1 | 2026-11-16 |
@@ -240,15 +254,17 @@
 | instructive (microenvironment) | 学术通用表达 | 2 | 2026-11-09 |
 | insulate | 学术通用表达 | 1 | 2026-09-28 |
 | interferon-γ (IFNγ) | 生物学术语 | 1 | 2026-11-09 |
-| interplay | 学术通用表达 | 1 | 2026-10-05 |
+| interplay | 学术通用表达 | 2 | 2026-11-23 |
 | interstitial lung disease (ILD) | 医学术语 | 1 | 2026-09-07 |
 | interstitium | 生物学术语 | 1 | 2026-10-26 |
 | intertwined | 学术通用表达 | 1 | 2026-11-02 |
 | intracellular structural disorder | 生物学术语 | 1 | 2026-10-19 |
 | intriguing | 学术通用表达 | 1 | 2026-11-02 |
 | intriguingly | 学术通用表达 | 1 | 2026-08-31 |
+| isometric force measurement | 实验技术与方法 | 1 | 2026-11-23 |
 | JUNB | 生物学术语 | 1 | 2026-11-02 |
 | juxtaposed | 学术通用表达 | 1 | 2026-10-19 |
+| keloid scar | 医学术语 | 1 | 2026-11-23 |
 | keratoconus (KC) | 医学术语 | 1 | 2026-10-19 |
 | Ki67 staining | 实验技术与方法 | 1 | 2026-11-02 |
 | knockout mice | 实验技术与方法 | 2 | 2026-11-16 |
@@ -259,6 +275,7 @@
 | ligand presentation | 生物学术语 | 1 | 2026-10-05 |
 | LINC complex | 生物学术语 | 1 | 2026-08-31 |
 | lineage commitment | 生物学术语 | 1 | 2026-09-14 |
+| lineage specification | 生物学术语 | 1 | 2026-11-23 |
 | lineage tracing | 生物学术语 | 1 | 2026-08-31 |
 | liposome | 实验技术与方法 | 1 | 2026-10-12 |
 | live-cell time-lapse imaging | 实验技术与方法 | 1 | 2026-10-12 |
@@ -281,6 +298,7 @@
 | mechanosensing | 生物学术语 | 3 | 2026-11-16 |
 | mechanosensitive | 生物学术语 | 1 | 2026-10-26 |
 | mechanosensitive checkpoint | 生物学术语 | 1 | 2026-09-07 |
+| mechanosensitive ion channel | 生物学术语 | 1 | 2026-11-23 |
 | mechanosensitivity | 生物学术语 | 2 | 2026-09-28 |
 | mechanosensor | 生物学术语 | 2 | 2026-09-21 |
 | mechanotransduction | 生物学术语 | 9 | 2026-11-16 |
@@ -294,6 +312,7 @@
 | micropillar array | 实验技术与方法 | 1 | 2026-08-30 |
 | microtubule (MT) acetylation | 生物学术语 | 2 | 2026-11-16 |
 | microtubule flexibility | 生物学术语 | 1 | 2026-11-16 |
+| microvoid | 生物学术语 | 1 | 2026-11-23 |
 | mimic | 学术通用表达 | 1 | 2026-10-05 |
 | mirror (v., to replicate findings) | 学术通用表达 | 1 | 2026-10-12 |
 | mitigate | 学术通用表达 | 1 | 2026-09-14 |
@@ -301,6 +320,7 @@
 | mitofusin (MFN) | 生物学术语 | 1 | 2026-08-30 |
 | MitoTracker staining | 实验技术与方法 | 1 | 2026-08-30 |
 | modular hydrogel system | 实验技术与方法 | 1 | 2026-10-05 |
+| modulate | 学术通用表达 | 1 | 2026-11-23 |
 | Monocle3 (pseudotime trajectory tool) | 实验技术与方法 | 1 | 2026-09-14 |
 | monocyte | 生物学术语 | 1 | 2026-11-16 |
 | morphodynamics | 生物学术语 | 1 | 2026-10-05 |
@@ -315,6 +335,7 @@
 | myoblast lineage | 生物学术语 | 1 | 2026-09-28 |
 | myocardial infarction | 医学术语 | 1 | 2026-10-12 |
 | myofibroblast (MF) | 医学术语 | 5 | 2026-11-16 |
+| myofibroblastic | 生物学术语 | 1 | 2026-11-23 |
 | nanoindentation | 实验技术与方法 | 2 | 2026-11-02 |
 | nanoporous hydrogel | 生物学术语 | 1 | 2026-10-05 |
 | NCAM1-FGFR1 axis | 生物学术语 | 1 | 2026-09-21 |
@@ -325,11 +346,12 @@
 | nominate | 学术通用表达 | 1 | 2026-09-07 |
 | non-monotonic (dependence) | 生物学术语 | 1 | 2026-10-05 |
 | non-negligible | 学术通用表达 | 1 | 2026-11-02 |
+| nonmonotonic | 学术通用表达 | 1 | 2026-11-23 |
 | norbornene-modified hyaluronic acid (NorHA) | 实验技术与方法 | 1 | 2026-11-02 |
 | nuanced | 学术通用表达 | 1 | 2026-11-02 |
 | nuclear envelope | 生物学术语 | 1 | 2026-11-02 |
 | nuclear lamina | 生物学术语 | 1 | 2026-11-02 |
-| nuclear translocation | 生物学术语 | 2 | 2026-09-28 |
+| nuclear translocation | 生物学术语 | 3 | 2026-11-23 |
 | nucleo-cytoskeletal components | 生物学术语 | 1 | 2026-10-19 |
 | nucleocytoplasmic shuttling | 生物学术语 | 1 | 2026-09-07 |
 | nullify | 学术通用表达 | 1 | 2026-09-14 |
@@ -356,6 +378,7 @@
 | periprosthetic osteolysis | 医学术语 | 1 | 2026-10-12 |
 | perivascular niche | 生物学术语 | 1 | 2026-08-31 |
 | perpetuate | 学术通用表达 | 2 | 2026-11-16 |
+| persist | 学术通用表达 | 1 | 2026-11-23 |
 | pharmacological inhibition | 实验技术与方法 | 2 | 2026-11-16 |
 | phenocopy | 学术通用表达 | 3 | 2026-10-26 |
 | phospho-dead mutant | 生物学术语 | 1 | 2026-09-07 |
@@ -374,6 +397,7 @@
 | positive feedback loop | 生物学术语 | 1 | 2026-10-05 |
 | potently | 学术通用表达 | 1 | 2026-11-02 |
 | pragmatic | 学术通用表达 | 1 | 2026-09-28 |
+| predispose | 学术通用表达 | 1 | 2026-11-23 |
 | preferential | 学术通用表达 | 1 | 2026-10-12 |
 | preliminary model | 学术通用表达 | 2 | 2026-09-28 |
 | premature | 学术通用表达 | 1 | 2026-11-02 |
@@ -384,12 +408,13 @@
 | pro-resolution program | 生物学术语 | 1 | 2026-11-16 |
 | proepicardial | 生物学术语 | 1 | 2026-10-12 |
 | profibrogenic phenotype | 生物学术语 | 1 | 2026-09-07 |
+| progenitor-like cells (PI16+) | 生物学术语 | 1 | 2026-11-23 |
 | pronouncedly | 学术通用表达 | 1 | 2026-09-21 |
 | protease-degradable crosslinker | 实验技术与方法 | 1 | 2026-10-05 |
 | protein kinase D (PKD) | 生物学术语 | 1 | 2026-10-19 |
 | pseudotime trajectory analysis | 生物学术语 | 2 | 2026-09-14 |
 | pySCENIC regulon inference | 实验技术与方法 | 1 | 2026-09-07 |
-| quantitative PCR (qPCR) | 实验技术与方法 | 2 | 2026-11-09 |
+| quantitative PCR (qPCR) | 实验技术与方法 | 3 | 2026-11-23 |
 | quantitative phase imaging (QPI) | 实验技术与方法 | 1 | 2026-10-19 |
 | quiescent phenotype | 生物学术语 | 1 | 2026-10-12 |
 | RAB6 | 生物学术语 | 1 | 2026-10-19 |
@@ -408,7 +433,7 @@
 | reticular fibroblasts | 生物学术语 | 2 | 2026-09-21 |
 | rheumatoid arthritis | 医学术语 | 1 | 2026-10-12 |
 | rigidity sensing | 生物学术语 | 1 | 2026-08-30 |
-| RNA sequencing (RNA-seq) | 实验技术与方法 | 1 | 2026-10-12 |
+| RNA sequencing (RNA-seq) | 实验技术与方法 | 2 | 2026-11-23 |
 | RNA-sequencing (RNA-seq) | 实验技术与方法 | 1 | 2026-11-02 |
 | ROCK1 (Rho-associated coiled-coil kinase 1) | 生物学术语 | 1 | 2026-09-21 |
 | RT-qPCR | 实验技术与方法 | 8 | 2026-11-02 |
@@ -416,6 +441,7 @@
 | RUSH (Retention Using Selective Hooks) assay | 实验技术与方法 | 1 | 2026-10-19 |
 | SA-β-gal staining | 实验技术与方法 | 1 | 2026-08-30 |
 | scalable | 学术通用表达 | 1 | 2026-09-28 |
+| scar contracture | 医学术语 | 1 | 2026-11-23 |
 | scar formation | 医学术语 | 1 | 2026-11-16 |
 | SCI mouse model | 实验技术与方法 | 1 | 2026-09-28 |
 | second-harmonic generation (SHG) | 实验技术与方法 | 2 | 2026-11-09 |
@@ -427,7 +453,7 @@
 | Shapiro–Wilk test | 实验技术与方法 | 1 | 2026-10-19 |
 | shRNA-mediated knockdown | 实验技术与方法 | 1 | 2026-09-21 |
 | Sidak's multiple comparisons test | 实验技术与方法 | 1 | 2026-10-12 |
-| single-cell RNA sequencing | 实验技术与方法 | 8 | 2026-11-16 |
+| single-cell RNA sequencing | 实验技术与方法 | 9 | 2026-11-23 |
 | single-cell RNA-sequencing (scRNA-seq) | 实验技术与方法 | 1 | 2026-11-02 |
 | siRNA knockdown (KD) | 实验技术与方法 | 4 | 2026-10-19 |
 | skeletal aging | 医学术语 | 1 | 2026-09-14 |
@@ -436,15 +462,17 @@
 | Smad2/Smad3 | 生物学术语 | 1 | 2026-10-26 |
 | small GTPase (Cdc42/Rac1/RhoA) | 生物学术语 | 1 | 2026-10-12 |
 | soft substrate priming / soft-priming strategy | 实验技术与方法 | 1 | 2026-09-28 |
+| spatial transcriptomic analysis | 实验技术与方法 | 1 | 2026-11-23 |
 | Spearman rank correlation | 实验技术与方法 | 2 | 2026-10-19 |
 | spinal cord injury (SCI) | 医学术语 | 1 | 2026-09-28 |
+| split-thickness skin graft | 医学术语 | 1 | 2026-11-23 |
 | stanniocalcin 2 (STC2) | 生物学术语 | 1 | 2026-09-14 |
 | STAT1 | 生物学术语 | 1 | 2026-10-05 |
 | stiffness gradient | 生物学术语 | 2 | 2026-11-16 |
 | strain sensitivity | 生物学术语 | 1 | 2026-10-26 |
 | strain-promoted azide-alkyne cycloaddition (SPAAC) | 实验技术与方法 | 1 | 2026-10-05 |
-| stress fiber | 生物学术语 | 1 | 2026-10-12 |
-| stress relaxation (viscoelasticity) | 实验技术与方法 | 2 | 2026-11-02 |
+| stress fiber | 生物学术语 | 2 | 2026-11-23 |
+| stress relaxation (viscoelasticity) | 实验技术与方法 | 3 | 2026-11-23 |
 | strikingly | 学术通用表达 | 1 | 2026-11-09 |
 | stromal fibroblast | 生物学术语 | 1 | 2026-10-19 |
 | subcellular fractionation | 实验技术与方法 | 1 | 2026-09-07 |
@@ -452,10 +480,10 @@
 | sublethal | 医学术语 | 1 | 2026-08-30 |
 | substrate compliance | 生物学术语 | 2 | 2026-09-28 |
 | SuperPlot | 实验技术与方法 | 1 | 2026-10-19 |
-| sustain | 学术通用表达 | 1 | 2026-11-16 |
+| sustain | 学术通用表达 | 2 | 2026-11-23 |
 | synergistically | 学术通用表达 | 1 | 2026-11-02 |
 | systematic modulation | 学术通用表达 | 1 | 2026-10-05 |
-| systemic sclerosis (SSc) | 医学术语 | 1 | 2026-11-16 |
+| systemic sclerosis (SSc) | 医学术语 | 2 | 2026-11-23 |
 | t-distributed stochastic neighbor embedding (t-SNE) | 实验技术与方法 | 1 | 2026-09-21 |
 | tail-tip fibroblast (TTF) | 生物学术语 | 1 | 2026-10-12 |
 | TAZ (transcriptional coactivator with PDZ-binding motif) | 生物学术语 | 1 | 2026-11-02 |
@@ -480,7 +508,9 @@
 | tripartite | 学术通用表达 | 1 | 2026-09-21 |
 | tunable-stiffness substrate | 实验技术与方法 | 1 | 2026-09-28 |
 | tune (verb, set an activation threshold) | 学术通用表达 | 1 | 2026-09-07 |
+| two-way ANOVA | 实验技术与方法 | 1 | 2026-11-23 |
 | underappreciated | 学术通用表达 | 2 | 2026-11-02 |
+| underlie | 学术通用表达 | 1 | 2026-11-23 |
 | undermine | 学术通用表达 | 1 | 2026-11-02 |
 | underscore | 学术通用表达 | 3 | 2026-11-09 |
 | uniaxial tensile testing | 实验技术与方法 | 1 | 2026-11-09 |
@@ -491,19 +521,20 @@
 | ventricular dysfunction | 医学术语 | 1 | 2026-10-26 |
 | versatile | 学术通用表达 | 1 | 2026-10-05 |
 | viable | 学术通用表达 | 1 | 2026-10-26 |
+| vicious cycle | 医学术语 | 1 | 2026-11-23 |
 | vimentin | 生物学术语 | 2 | 2026-10-19 |
 | vinculin | 生物学术语 | 1 | 2026-10-19 |
 | viscoelastic coculture platform | 实验技术与方法 | 1 | 2026-10-05 |
-| viscoelasticity (ECM) | 生物学术语 | 3 | 2026-11-02 |
+| viscoelasticity (ECM) | 生物学术语 | 4 | 2026-11-23 |
 | viscoplastic | 生物学术语 | 1 | 2026-10-05 |
 | warrant | 学术通用表达 | 4 | 2026-11-02 |
 | Western blotting | 实验技术与方法 | 4 | 2026-10-19 |
 | Wnt/β-catenin signaling | 生物学术语 | 1 | 2026-09-21 |
 | xanthan gum | 实验技术与方法 | 1 | 2026-10-05 |
 | YAP (Yes-associated protein) | 生物学术语 | 3 | 2026-11-02 |
-| YAP/TAZ signaling | 生物学术语 | 9 | 2026-11-16 |
+| YAP/TAZ signaling | 生物学术语 | 10 | 2026-11-23 |
 | Young's modulus | 实验技术与方法 | 1 | 2026-10-19 |
-| α-smooth muscle actin (α-SMA) | 生物学术语 | 4 | 2026-10-12 |
+| α-smooth muscle actin (α-SMA) | 生物学术语 | 5 | 2026-11-23 |
 | α-tubulin | 生物学术语 | 1 | 2026-11-16 |
 | α-tubulin K40 acetylation | 生物学术语 | 1 | 2026-11-16 |
 | β1 integrin (Itgb1) | 生物学术语 | 3 | 2026-10-26 |

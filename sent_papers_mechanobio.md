@@ -131,3 +131,13 @@
 - **标题**：Dysregulation of mechanosensing signaling in monocytes of patients with systemic sclerosis is associated with skin inflammation
   **DOI**：10.1073/pnas.2609599123
   **期刊**：Proceedings of the National Academy of Sciences of the United States of America（2026-11-05）
+
+## 2026-11-23
+
+- **标题**：Cell–matrix feedback controls stretch-induced cellular memory and fibroblast activation
+  **DOI**：10.1073/pnas.2322762122
+  **期刊**：Proceedings of the National Academy of Sciences of the United States of America（2025-03-25，Epub 2025-03-18）
+
+- **标题**：Matrix stiffness regulates profibrotic fibroblast differentiation and fibrotic niche activation in systemic sclerosis
+  **DOI**：10.1016/j.ard.2025.05.016
+  **期刊**：Annals of the Rheumatic Diseases（2025-11，Epub 2025-06-26）
