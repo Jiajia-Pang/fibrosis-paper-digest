@@ -1,4 +1,4 @@
-# 高频词汇 Top 10（截至2026-11-20）
+# 高频词汇 Top 10（截至2026-11-25）
 
 累计出现次数并列的词按字母顺序排列。
 
@@ -6,11 +6,11 @@
 |---|---|---|---|
 | 1 | extracellular matrix (ECM) | 生物学术语 | 23 |
 | 2 | attenuate | 学术通用表达 | 21 |
-| 3 | myofibroblast | 生物学术语 | 20 |
+| 3 | myofibroblast | 生物学术语 | 21 |
 | 4 | single-cell RNA sequencing (scRNA-seq) | 实验技术与方法 | 19 |
 | 5 | recapitulate | 学术通用表达 | 16 |
 | 6 | fibroblast activation | 生物学术语 | 14 |
 | 7 | α-SMA (alpha smooth muscle actin) | 生物学术语 | 13 |
 | 8 | collagen deposition | 医学术语 | 11 |
 | 9 | elucidate | 学术通用表达 | 11 |
-| 10 | TGF-β1 (transforming growth factor beta 1) | 生物学术语 | 11 |
+| 10 | spatial transcriptomics | 实验技术与方法 | 11 |
